@@ -1,0 +1,2 @@
+# SNU_NLP
+SNU 12기 NLP 2조
