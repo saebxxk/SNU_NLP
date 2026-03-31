@@ -1,0 +1,91 @@
+{
+  "query": "2024년 재무위험관리 내용 알려줘",
+  "query_terms": [
+    "재무위험관리"
+  ],
+  "query_year": 2024,
+  "target": {
+    "chunk_id": "2014_note_32_28_chunk_2",
+    "year": 2014,
+    "title": "32. 재무위험관리 :",
+    "final_score": 1.313755078315735,
+    "dense_score": 0.6437550783157349
+  },
+  "baseline_status": "normal_competition",
+  "valid_rank_threshold": 3,
+  "results": [
+    {
+      "level_name": "L0_weak_competition",
+      "pool_size": 6,
+      "target_raw_score": 1.313755078315735,
+      "target_dense_score": 0.6437550783157349,
+      "target_support_prob": 0.26515960977606196,
+      "target_rank": 1,
+      "is_top1": true,
+      "strongest_rival_chunk_id": "2024_note_13_12_chunk_0",
+      "strongest_rival_score": 0.746263828277588,
+      "margin_vs_rival": 0.567491250038147,
+      "top3_chunk_ids": [
+        "2014_note_32_28_chunk_2",
+        "2024_note_13_12_chunk_0",
+        "2024_note_7_6_chunk_0"
+      ]
+    },
+    {
+      "level_name": "L1_near_rival",
+      "pool_size": 7,
+      "target_raw_score": 1.313755078315735,
+      "target_dense_score": 0.6437550783157349,
+      "target_support_prob": 0.20970302708722036,
+      "target_rank": 1,
+      "is_top1": true,
+      "strongest_rival_chunk_id": "2022_note_28_27_chunk_0",
+      "strongest_rival_score": 1.3110864591598512,
+      "margin_vs_rival": 0.002668619155883789,
+      "top3_chunk_ids": [
+        "2014_note_32_28_chunk_2",
+        "2022_note_28_27_chunk_0",
+        "2024_note_13_12_chunk_0"
+      ]
+    },
+    {
+      "level_name": "L2_topical_crowding",
+      "pool_size": 10,
+      "target_raw_score": 1.313755078315735,
+      "target_dense_score": 0.6437550783157349,
+      "target_support_prob": 0.11428035768454915,
+      "target_rank": 2,
+      "is_top1": false,
+      "strongest_rival_chunk_id": "2024_note_28_27_chunk_0",
+      "strongest_rival_score": 1.4201342248916629,
+      "margin_vs_rival": -0.10637914657592784,
+      "top3_chunk_ids": [
+        "2024_note_28_27_chunk_0",
+        "2014_note_32_28_chunk_2",
+        "2022_note_28_27_chunk_0"
+      ]
+    },
+    {
+      "level_name": "L3_year_sensitive_pressure",
+      "pool_size": 11,
+      "target_raw_score": 1.313755078315735,
+      "target_dense_score": 0.6437550783157349,
+      "target_support_prob": 0.09989308461918185,
+      "target_rank": 2,
+      "is_top1": false,
+      "strongest_rival_chunk_id": "2024_note_28_27_chunk_0",
+      "strongest_rival_score": 1.4201342248916629,
+      "margin_vs_rival": -0.10637914657592784,
+      "top3_chunk_ids": [
+        "2024_note_28_27_chunk_0",
+        "2014_note_32_28_chunk_2",
+        "2022_note_28_27_chunk_0"
+      ]
+    }
+  ],
+  "auto_explanation": [
+    "baseline에서는 target이 rank 1이고, strongest rival 대비 margin은 0.5675 (margin이 충분히 큼)입니다.",
+    "처음 top-1이 깨지는 지점은 L2_topical_crowding이며, 이때 strongest rival은 2024_note_28_27_chunk_0, margin은 -0.1064입니다.",
+    "가장 불리한 조건은 L2_topical_crowding이고, 여기서는 target이 0.1064만큼 뒤집힙니다. 따라서 현재 선택은 crowding / year-sensitive rival에 대해 경쟁 민감성이 있습니다."
+  ]
+}
