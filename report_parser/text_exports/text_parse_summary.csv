@@ -1,0 +1,12 @@
+﻿source_file,file_name,year,company_name,report_date,line_count,main_section_count,note_block_count,has_auditor_report_title,has_opinion,has_basis_for_opinion,has_key_audit_matters,has_notes_section,all_main_section_offsets_valid,all_note_offsets_valid
+report_parser/data/감사보고서_2014.htm,감사보고서_2014.htm,2014,삼성전자주식회사,2015년 2월 24일,758,10,32,True,True,False,False,True,True,True
+report_parser/data/감사보고서_2015.htm,감사보고서_2015.htm,2015,삼성전자주식회사,2016년 2월 25일,711,7,35,True,True,False,False,True,True,True
+report_parser/data/감사보고서_2016.htm,감사보고서_2016.htm,2016,삼성전자주식회사,2017년 2월 27일,722,7,29,True,True,False,False,True,True,True
+report_parser/data/감사보고서_2017.htm,감사보고서_2017.htm,2017,삼성전자 주식회사,2018년 2월 27일,851,7,29,True,True,False,False,True,True,True
+report_parser/data/감사보고서_2018.htm,감사보고서_2018.htm,2018,삼성전자 주식회사,2019년 2월 27일,913,10,27,True,True,True,True,True,True,True
+report_parser/data/감사보고서_2019.htm,감사보고서_2019.htm,2019,삼성전자주식회사,2020년 2월 21일,843,10,28,True,True,True,True,True,True,True
+report_parser/data/감사보고서_2020.htm,감사보고서_2020.htm,2020,삼성전자주식회사,2021년 2월 17일,1160,10,26,True,True,True,True,True,True,True
+report_parser/data/감사보고서_2021.htm,감사보고서_2021.htm,2021,삼성전자주식회사,2022년 2월 16일,1160,9,26,True,True,True,True,True,True,True
+report_parser/data/감사보고서_2022.htm,감사보고서_2022.htm,2022,삼성전자주식회사,2023년 2월 15일,483,8,31,True,True,True,True,True,True,True
+report_parser/data/감사보고서_2023.htm,감사보고서_2023.htm,2023,삼성전자주식회사,2024년 2월 19일,422,9,30,True,True,True,True,True,True,True
+report_parser/data/감사보고서_2024.htm,감사보고서_2024.htm,2024,삼성전자주식회사,2025년 2월 18일,483,8,31,True,True,True,True,True,True,True

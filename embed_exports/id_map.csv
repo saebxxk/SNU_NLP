@@ -1,0 +1,1048 @@
+﻿row_id,chunk_id,parent_doc_id,source_type,title,year,statement_type,note_number,section_type,chunk_index,chunk_count,chunk_text_length
+0,2014_section_0_chunk_0,2014_section_0,main_section,독립된 감사인의 감사보고서,2014,,,auditor_report_title,0,1,183
+1,2014_section_1_chunk_0,2014_section_1,main_section,재무제표에 대한 경영진의 책임,2014,,,management_responsibility,0,1,135
+2,2014_section_2_chunk_0,2014_section_2,main_section,감사인의 책임,2014,,,auditor_responsibility,0,1,572
+3,2014_section_3_chunk_0,2014_section_3,main_section,감사의견,2014,,,opinion,0,1,144
+4,2014_section_4_chunk_0,2014_section_4,main_section,기타사항,2014,,,other_matters,0,1,92
+5,2014_section_5_chunk_0,2014_section_5,main_section,(첨부)재 무 제 표,2014,,,attached_financial_statements,0,1,11
+6,2014_section_6_chunk_0,2014_section_6,main_section,주석,2014,,,notes_section,0,14,1124
+7,2014_section_6_chunk_1,2014_section_6,main_section,주석,2014,,,notes_section,1,14,1304
+8,2014_section_6_chunk_2,2014_section_6,main_section,주석,2014,,,notes_section,2,14,1278
+9,2014_section_6_chunk_3,2014_section_6,main_section,주석,2014,,,notes_section,3,14,1334
+10,2014_section_6_chunk_4,2014_section_6,main_section,주석,2014,,,notes_section,4,14,1351
+11,2014_section_6_chunk_5,2014_section_6,main_section,주석,2014,,,notes_section,5,14,1276
+12,2014_section_6_chunk_6,2014_section_6,main_section,주석,2014,,,notes_section,6,14,1208
+13,2014_section_6_chunk_7,2014_section_6,main_section,주석,2014,,,notes_section,7,14,1289
+14,2014_section_6_chunk_8,2014_section_6,main_section,주석,2014,,,notes_section,8,14,1135
+15,2014_section_6_chunk_9,2014_section_6,main_section,주석,2014,,,notes_section,9,14,1143
+16,2014_section_6_chunk_10,2014_section_6,main_section,주석,2014,,,notes_section,10,14,1341
+17,2014_section_6_chunk_11,2014_section_6,main_section,주석,2014,,,notes_section,11,14,1333
+18,2014_section_6_chunk_12,2014_section_6,main_section,주석,2014,,,notes_section,12,14,1349
+19,2014_section_6_chunk_13,2014_section_6,main_section,주석,2014,,,notes_section,13,14,1072
+20,2014_section_7_chunk_0,2014_section_7,main_section,(주석,2014,,,notes_section,0,2,1174
+21,2014_section_7_chunk_1,2014_section_7,main_section,(주석,2014,,,notes_section,1,2,239
+22,2014_section_8_chunk_0,2014_section_8,main_section,주석,2014,,,notes_section,0,3,1136
+23,2014_section_8_chunk_1,2014_section_8,main_section,주석,2014,,,notes_section,1,3,1346
+24,2014_section_8_chunk_2,2014_section_8,main_section,주석,2014,,,notes_section,2,3,1014
+25,2014_section_9_chunk_0,2014_section_9,main_section,주석,2014,,,notes_section,0,12,1123
+26,2014_section_9_chunk_1,2014_section_9,main_section,주석,2014,,,notes_section,1,12,1345
+27,2014_section_9_chunk_2,2014_section_9,main_section,주석,2014,,,notes_section,2,12,1348
+28,2014_section_9_chunk_3,2014_section_9,main_section,주석,2014,,,notes_section,3,12,1269
+29,2014_section_9_chunk_4,2014_section_9,main_section,주석,2014,,,notes_section,4,12,1343
+30,2014_section_9_chunk_5,2014_section_9,main_section,주석,2014,,,notes_section,5,12,1331
+31,2014_section_9_chunk_6,2014_section_9,main_section,주석,2014,,,notes_section,6,12,1318
+32,2014_section_9_chunk_7,2014_section_9,main_section,주석,2014,,,notes_section,7,12,1345
+33,2014_section_9_chunk_8,2014_section_9,main_section,주석,2014,,,notes_section,8,12,1348
+34,2014_section_9_chunk_9,2014_section_9,main_section,주석,2014,,,notes_section,9,12,1296
+35,2014_section_9_chunk_10,2014_section_9,main_section,주석,2014,,,notes_section,10,12,1265
+36,2014_section_9_chunk_11,2014_section_9,main_section,주석,2014,,,notes_section,11,12,1139
+37,2014_note_1_0_chunk_0,2014_note_1_0,note_block,1. 일반적 사항 :,2014,,1,,0,1,366
+38,2014_note_2_1_chunk_0,2014_note_2_1,note_block,2. 중요한 회계처리방침 :,2014,,2,,0,7,963
+39,2014_note_2_1_chunk_1,2014_note_2_1,note_block,2. 중요한 회계처리방침 :,2014,,2,,1,7,1206
+40,2014_note_2_1_chunk_2,2014_note_2_1,note_block,2. 중요한 회계처리방침 :,2014,,2,,2,7,1262
+41,2014_note_2_1_chunk_3,2014_note_2_1,note_block,2. 중요한 회계처리방침 :,2014,,2,,3,7,1146
+42,2014_note_2_1_chunk_4,2014_note_2_1,note_block,2. 중요한 회계처리방침 :,2014,,2,,4,7,1320
+43,2014_note_2_1_chunk_5,2014_note_2_1,note_block,2. 중요한 회계처리방침 :,2014,,2,,5,7,1246
+44,2014_note_2_1_chunk_6,2014_note_2_1,note_block,2. 중요한 회계처리방침 :,2014,,2,,6,7,965
+45,2014_note_2_2_chunk_0,2014_note_2_2,note_block,2. 중요,2014,,2,,0,1,900
+46,2014_note_2_3_chunk_0,2014_note_2_3,note_block,2. 중요,2014,,2,,0,3,1083
+47,2014_note_2_3_chunk_1,2014_note_2_3,note_block,2. 중요,2014,,2,,1,3,1317
+48,2014_note_2_3_chunk_2,2014_note_2_3,note_block,2. 중요,2014,,2,,2,3,772
+49,2014_note_3_4_chunk_0,2014_note_3_4,note_block,3. 중요한 회계추정 및 가정,2014,,3,,0,2,1175
+50,2014_note_3_4_chunk_1,2014_note_3_4,note_block,3. 중요한 회계추정 및 가정,2014,,3,,1,2,527
+51,2014_note_6_5_chunk_0,2014_note_6_5,note_block,6. 범주별 금융상품 :,2014,,6,,0,1,172
+52,2014_note_7_6_chunk_0,2014_note_7_6,note_block,7. 금융자산의 신용건전성 :,2014,,7,,0,1,503
+53,2014_note_8_7_chunk_0,2014_note_8_7,note_block,8. 금융자산의 양도 :,2014,,8,,0,1,258
+54,2014_note_9_8_chunk_0,2014_note_9_8,note_block,9. 매도가능금융자산 :,2014,,9,,0,2,1189
+55,2014_note_9_8_chunk_1,2014_note_9_8,note_block,9. 매도가능금융자산 :,2014,,9,,1,2,204
+56,2014_note_10_9_chunk_0,2014_note_10_9,note_block,10. 매출채권 및 미수금 :,2014,,10,,0,1,534
+57,2014_note_11_10_chunk_0,2014_note_11_10,note_block,11. 재고자산 :,2014,,11,,0,1,160
+58,2014_note_12_11_chunk_0,2014_note_12_11,note_block,"12. 종속기업, 관계기업 및 공동기업 투자 :",2014,,12,,0,2,1170
+59,2014_note_12_11_chunk_1,2014_note_12_11,note_block,"12. 종속기업, 관계기업 및 공동기업 투자 :",2014,,12,,1,2,417
+60,2014_note_13_12_chunk_0,2014_note_13_12,note_block,13. 유형자산 :,2014,,13,,0,1,621
+61,2014_note_15_13_chunk_0,2014_note_15_13,note_block,15. 차입금 :,2014,,15,,0,1,90
+62,2014_note_16_14_chunk_0,2014_note_16_14,note_block,16. 사채 :,2014,,16,,0,1,262
+63,2014_note_17_15_chunk_0,2014_note_17_15,note_block,"17. 순확정급여부채(자산), 계속 :",2014,,17,,0,1,497
+64,2014_note_19_16_chunk_0,2014_note_19_16,note_block,19. 우발부채와 약정사항 :,2014,,19,,0,2,1198
+65,2014_note_19_16_chunk_1,2014_note_19_16,note_block,19. 우발부채와 약정사항 :,2014,,19,,1,2,731
+66,2014_note_20_17_chunk_0,2014_note_20_17,note_block,20. 자본금 :,2014,,20,,0,1,244
+67,2014_note_21_18_chunk_0,2014_note_21_18,note_block,21. 이익잉여금 :,2014,,21,,0,1,507
+68,2014_note_22_19_chunk_0,2014_note_22_19,note_block,22. 주당배당금 :,2014,,22,,0,1,122
+69,2014_note_23_20_chunk_0,2014_note_23_20,note_block,23. 기타자본항목 :,2014,,23,,0,1,645
+70,2014_note_25_21_chunk_0,2014_note_25_21,note_block,25. 비용의 성격별 분류 :,2014,,25,,0,1,90
+71,2014_note_26_22_chunk_0,2014_note_26_22,note_block,26. 판매비와관리비 :,2014,,26,,0,1,45
+72,2014_note_27_23_chunk_0,2014_note_27_23,note_block,27. 기타수익,2014,,27,,0,1,54
+73,2014_note_28_24_chunk_0,2014_note_28_24,note_block,28. 금융수익 및 금융비용 :,2014,,28,,0,1,111
+74,2014_note_29_25_chunk_0,2014_note_29_25,note_block,29. 법인세비용 :,2014,,29,,0,1,535
+75,2014_note_30_26_chunk_0,2014_note_30_26,note_block,30. 주당이익 :,2014,,30,,0,1,259
+76,2014_note_31_27_chunk_0,2014_note_31_27,note_block,31. 현금흐름표 :,2014,,31,,0,1,311
+77,2014_note_32_28_chunk_0,2014_note_32_28,note_block,32. 재무위험관리 :,2014,,32,,0,5,1194
+78,2014_note_32_28_chunk_1,2014_note_32_28,note_block,32. 재무위험관리 :,2014,,32,,1,5,1215
+79,2014_note_32_28_chunk_2,2014_note_32_28,note_block,32. 재무위험관리 :,2014,,32,,2,5,1304
+80,2014_note_32_28_chunk_3,2014_note_32_28,note_block,32. 재무위험관리 :,2014,,32,,3,5,1306
+81,2014_note_32_28_chunk_4,2014_note_32_28,note_block,32. 재무위험관리 :,2014,,32,,4,5,781
+82,2014_note_33_29_chunk_0,2014_note_33_29,note_block,33. 특수관계자와의 거래,2014,,33,,0,2,1200
+83,2014_note_33_29_chunk_1,2014_note_33_29,note_block,33. 특수관계자와의 거래,2014,,33,,1,2,286
+84,2014_note_34_30_chunk_0,2014_note_34_30,note_block,34. 매각예정분류(처분자산집단),2014,,34,,0,1,615
+85,2014_note_35_31_chunk_0,2014_note_35_31,note_block,35. 보고기간 후 사건,2014,,35,,0,1,723
+86,2014_balance_sheet_chunk_0,2014_balance_sheet,normalized_table,balance_sheet,2014,balance_sheet,,,0,2,1200
+87,2014_balance_sheet_chunk_1,2014_balance_sheet,normalized_table,balance_sheet,2014,balance_sheet,,,1,2,1013
+88,2014_income_statement_chunk_0,2014_income_statement,normalized_table,income_statement,2014,income_statement,,,0,1,666
+89,2014_comprehensive_income_chunk_0,2014_comprehensive_income,normalized_table,comprehensive_income,2014,comprehensive_income,,,0,1,376
+90,2014_changes_in_equity_prior_period_0_chunk_0,2014_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2014,changes_in_equity,,,0,1,744
+91,2014_changes_in_equity_current_period_1_chunk_0,2014_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2014,changes_in_equity,,,0,1,866
+92,2014_cash_flow_chunk_0,2014_cash_flow,normalized_table,cash_flow,2014,cash_flow,,,0,2,1184
+93,2014_cash_flow_chunk_1,2014_cash_flow,normalized_table,cash_flow,2014,cash_flow,,,1,2,308
+94,2015_section_0_chunk_0,2015_section_0,main_section,독립된 감사인의 감사보고서,2015,,,auditor_report_title,0,1,183
+95,2015_section_1_chunk_0,2015_section_1,main_section,재무제표에 대한 경영진의 책임,2015,,,management_responsibility,0,1,135
+96,2015_section_2_chunk_0,2015_section_2,main_section,감사인의 책임,2015,,,auditor_responsibility,0,1,572
+97,2015_section_3_chunk_0,2015_section_3,main_section,감사의견,2015,,,opinion,0,1,157
+98,2015_section_4_chunk_0,2015_section_4,main_section,(첨부)재 무 제 표,2015,,,attached_financial_statements,0,1,11
+99,2015_section_5_chunk_0,2015_section_5,main_section,주석,2015,,,notes_section,0,15,1194
+100,2015_section_5_chunk_1,2015_section_5,main_section,주석,2015,,,notes_section,1,15,1272
+101,2015_section_5_chunk_2,2015_section_5,main_section,주석,2015,,,notes_section,2,15,1348
+102,2015_section_5_chunk_3,2015_section_5,main_section,주석,2015,,,notes_section,3,15,1282
+103,2015_section_5_chunk_4,2015_section_5,main_section,주석,2015,,,notes_section,4,15,1165
+104,2015_section_5_chunk_5,2015_section_5,main_section,주석,2015,,,notes_section,5,15,1333
+105,2015_section_5_chunk_6,2015_section_5,main_section,주석,2015,,,notes_section,6,15,1349
+106,2015_section_5_chunk_7,2015_section_5,main_section,주석,2015,,,notes_section,7,15,1150
+107,2015_section_5_chunk_8,2015_section_5,main_section,주석,2015,,,notes_section,8,15,1246
+108,2015_section_5_chunk_9,2015_section_5,main_section,주석,2015,,,notes_section,9,15,1125
+109,2015_section_5_chunk_10,2015_section_5,main_section,주석,2015,,,notes_section,10,15,1340
+110,2015_section_5_chunk_11,2015_section_5,main_section,주석,2015,,,notes_section,11,15,1129
+111,2015_section_5_chunk_12,2015_section_5,main_section,주석,2015,,,notes_section,12,15,1316
+112,2015_section_5_chunk_13,2015_section_5,main_section,주석,2015,,,notes_section,13,15,1346
+113,2015_section_5_chunk_14,2015_section_5,main_section,주석,2015,,,notes_section,14,15,749
+114,2015_section_6_chunk_0,2015_section_6,main_section,(주석,2015,,,notes_section,0,17,1186
+115,2015_section_6_chunk_1,2015_section_6,main_section,(주석,2015,,,notes_section,1,17,1348
+116,2015_section_6_chunk_2,2015_section_6,main_section,(주석,2015,,,notes_section,2,17,1342
+117,2015_section_6_chunk_3,2015_section_6,main_section,(주석,2015,,,notes_section,3,17,657
+118,2015_section_6_chunk_4,2015_section_6,main_section,(주석,2015,,,notes_section,4,17,1142
+119,2015_section_6_chunk_5,2015_section_6,main_section,(주석,2015,,,notes_section,5,17,1341
+120,2015_section_6_chunk_6,2015_section_6,main_section,(주석,2015,,,notes_section,6,17,1342
+121,2015_section_6_chunk_7,2015_section_6,main_section,(주석,2015,,,notes_section,7,17,1345
+122,2015_section_6_chunk_8,2015_section_6,main_section,(주석,2015,,,notes_section,8,17,1333
+123,2015_section_6_chunk_9,2015_section_6,main_section,(주석,2015,,,notes_section,9,17,1154
+124,2015_section_6_chunk_10,2015_section_6,main_section,(주석,2015,,,notes_section,10,17,1333
+125,2015_section_6_chunk_11,2015_section_6,main_section,(주석,2015,,,notes_section,11,17,1315
+126,2015_section_6_chunk_12,2015_section_6,main_section,(주석,2015,,,notes_section,12,17,1345
+127,2015_section_6_chunk_13,2015_section_6,main_section,(주석,2015,,,notes_section,13,17,1174
+128,2015_section_6_chunk_14,2015_section_6,main_section,(주석,2015,,,notes_section,14,17,1348
+129,2015_section_6_chunk_15,2015_section_6,main_section,(주석,2015,,,notes_section,15,17,1300
+130,2015_section_6_chunk_16,2015_section_6,main_section,(주석,2015,,,notes_section,16,17,1091
+131,2015_note_1_0_chunk_0,2015_note_1_0,note_block,1. 일반적 사항 :,2015,,1,,0,1,366
+132,2015_note_2_1_chunk_0,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,0,8,1117
+133,2015_note_2_1_chunk_1,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,1,8,1322
+134,2015_note_2_1_chunk_2,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,2,8,1281
+135,2015_note_2_1_chunk_3,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,3,8,1240
+136,2015_note_2_1_chunk_4,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,4,8,1318
+137,2015_note_2_1_chunk_5,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,5,8,1230
+138,2015_note_2_1_chunk_6,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,6,8,1114
+139,2015_note_2_1_chunk_7,2015_note_2_1,note_block,2. 중요한 회계처리방침 :,2015,,2,,7,8,649
+140,2015_note_2_2_chunk_0,2015_note_2_2,note_block,2. 중요,2015,,2,,0,1,882
+141,2015_note_2_3_chunk_0,2015_note_2_3,note_block,2. 중요,2015,,2,,0,3,1078
+142,2015_note_2_3_chunk_1,2015_note_2_3,note_block,2. 중요,2015,,2,,1,3,1319
+143,2015_note_2_3_chunk_2,2015_note_2_3,note_block,2. 중요,2015,,2,,2,3,717
+144,2015_note_3_4_chunk_0,2015_note_3_4,note_block,3. 중요한 회계추정 및 가정 :,2015,,3,,0,2,1152
+145,2015_note_3_4_chunk_1,2015_note_3_4,note_block,3. 중요한 회계추정 및 가정 :,2015,,3,,1,2,521
+146,2015_note_6_5_chunk_0,2015_note_6_5,note_block,6. 범주별 금융상품 :,2015,,6,,0,1,157
+147,2015_note_7_6_chunk_0,2015_note_7_6,note_block,7. 금융자산의 신용건전성 :,2015,,7,,0,1,516
+148,2015_note_8_7_chunk_0,2015_note_8_7,note_block,8. 금융자산의 양도 :,2015,,8,,0,1,258
+149,2015_note_9_8_chunk_0,2015_note_9_8,note_block,9. 매도가능금융자산 :,2015,,9,,0,1,966
+150,2015_note_10_9_chunk_0,2015_note_10_9,note_block,10. 매출채권 및 미수금 :,2015,,10,,0,1,523
+151,2015_note_11_10_chunk_0,2015_note_11_10,note_block,11. 재고자산 :,2015,,11,,0,1,133
+152,2015_note_12_11_chunk_0,2015_note_12_11,note_block,"12. 종속기업, 관계기업 및 공동기업 투자 :",2015,,12,,0,1,834
+153,2015_note_13_12_chunk_0,2015_note_13_12,note_block,13. 유형자산 :,2015,,13,,0,1,527
+154,2015_note_14_13_chunk_0,2015_note_14_13,note_block,"14. 무형자산, 계속 :",2015,,14,,0,1,336
+155,2015_note_15_14_chunk_0,2015_note_15_14,note_block,15. 차입금 :,2015,,15,,0,1,94
+156,2015_note_16_15_chunk_0,2015_note_16_15,note_block,16. 사채 :,2015,,16,,0,1,252
+157,2015_note_17_16_chunk_0,2015_note_17_16,note_block,17. 순확정급여,2015,,17,,0,1,114
+158,2015_note_17_17_chunk_0,2015_note_17_17,note_block,17. 순확정급여,2015,,17,,0,1,230
+159,2015_note_17_18_chunk_0,2015_note_17_18,note_block,17. 순확정급여,2015,,17,,0,1,101
+160,2015_note_19_19_chunk_0,2015_note_19_19,note_block,19. 우발부채와 약정사항 :,2015,,19,,0,3,275
+161,2015_note_19_19_chunk_1,2015_note_19_19,note_block,19. 우발부채와 약정사항 :,2015,,19,,1,3,1112
+162,2015_note_19_19_chunk_2,2015_note_19_19,note_block,19. 우발부채와 약정사항 :,2015,,19,,2,3,1191
+163,2015_note_20_20_chunk_0,2015_note_20_20,note_block,20. 자본금 :,2015,,20,,0,1,314
+164,2015_note_21_21_chunk_0,2015_note_21_21,note_block,21. 이익잉여금 :,2015,,21,,0,1,420
+165,2015_note_22_22_chunk_0,2015_note_22_22,note_block,22. 주당배당금 :,2015,,22,,0,1,118
+166,2015_note_23_23_chunk_0,2015_note_23_23,note_block,23. 기타자본항목 :,2015,,23,,0,1,550
+167,2015_note_25_24_chunk_0,2015_note_25_24,note_block,25. 비용의 성격별 분류 :,2015,,25,,0,1,90
+168,2015_note_26_25_chunk_0,2015_note_26_25,note_block,26. 판매비와관리비 :,2015,,26,,0,1,45
+169,2015_note_27_26_chunk_0,2015_note_27_26,note_block,27. 기타수익,2015,,27,,0,1,54
+170,2015_note_28_27_chunk_0,2015_note_28_27,note_block,28. 금융수익 및 금융비용 :,2015,,28,,0,1,111
+171,2015_note_29_28_chunk_0,2015_note_29_28,note_block,29. 법인세비용 :,2015,,29,,0,1,520
+172,2015_note_30_29_chunk_0,2015_note_30_29,note_block,30. 주당이익 :,2015,,30,,0,1,255
+173,2015_note_31_30_chunk_0,2015_note_31_30,note_block,31. 현금흐름표 :,2015,,31,,0,1,292
+174,2015_note_32_31_chunk_0,2015_note_32_31,note_block,32. 재무위험관리 :,2015,,32,,0,5,1198
+175,2015_note_32_31_chunk_1,2015_note_32_31,note_block,32. 재무위험관리 :,2015,,32,,1,5,1307
+176,2015_note_32_31_chunk_2,2015_note_32_31,note_block,32. 재무위험관리 :,2015,,32,,2,5,1233
+177,2015_note_32_31_chunk_3,2015_note_32_31,note_block,32. 재무위험관리 :,2015,,32,,3,5,1288
+178,2015_note_32_31_chunk_4,2015_note_32_31,note_block,32. 재무위험관리 :,2015,,32,,4,5,725
+179,2015_note_33_32_chunk_0,2015_note_33_32,note_block,33. 특수관계자와의 거래 :,2015,,33,,0,2,1124
+180,2015_note_33_32_chunk_1,2015_note_33_32,note_block,33. 특수관계자와의 거래 :,2015,,33,,1,2,555
+181,2015_note_34_33_chunk_0,2015_note_34_33,note_block,34. 매각예정분류(처분자산집단) :,2015,,34,,0,1,773
+182,2015_note_35_34_chunk_0,2015_note_35_34,note_block,35. 보고기간 후 사건 :,2015,,35,,0,1,642
+183,2015_balance_sheet_chunk_0,2015_balance_sheet,normalized_table,balance_sheet,2015,balance_sheet,,,0,2,1177
+184,2015_balance_sheet_chunk_1,2015_balance_sheet,normalized_table,balance_sheet,2015,balance_sheet,,,1,2,1052
+185,2015_income_statement_chunk_0,2015_income_statement,normalized_table,income_statement,2015,income_statement,,,0,1,663
+186,2015_comprehensive_income_chunk_0,2015_comprehensive_income,normalized_table,comprehensive_income,2015,comprehensive_income,,,0,1,374
+187,2015_changes_in_equity_prior_period_0_chunk_0,2015_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2015,changes_in_equity,,,0,1,867
+188,2015_changes_in_equity_current_period_1_chunk_0,2015_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2015,changes_in_equity,,,0,1,873
+189,2015_cash_flow_chunk_0,2015_cash_flow,normalized_table,cash_flow,2015,cash_flow,,,0,2,1200
+190,2015_cash_flow_chunk_1,2015_cash_flow,normalized_table,cash_flow,2015,cash_flow,,,1,2,425
+191,2016_section_0_chunk_0,2016_section_0,main_section,독립된 감사인의 감사보고서,2016,,,auditor_report_title,0,1,183
+192,2016_section_1_chunk_0,2016_section_1,main_section,재무제표에 대한 경영진의 책임,2016,,,management_responsibility,0,1,135
+193,2016_section_2_chunk_0,2016_section_2,main_section,감사인의 책임,2016,,,auditor_responsibility,0,1,572
+194,2016_section_3_chunk_0,2016_section_3,main_section,감사의견,2016,,,opinion,0,1,158
+195,2016_section_4_chunk_0,2016_section_4,main_section,(첨부)재 무 제 표,2016,,,attached_financial_statements,0,1,11
+196,2016_section_5_chunk_0,2016_section_5,main_section,주석,2016,,,notes_section,0,20,1141
+197,2016_section_5_chunk_1,2016_section_5,main_section,주석,2016,,,notes_section,1,20,1247
+198,2016_section_5_chunk_2,2016_section_5,main_section,주석,2016,,,notes_section,2,20,1223
+199,2016_section_5_chunk_3,2016_section_5,main_section,주석,2016,,,notes_section,3,20,1348
+200,2016_section_5_chunk_4,2016_section_5,main_section,주석,2016,,,notes_section,4,20,1285
+201,2016_section_5_chunk_5,2016_section_5,main_section,주석,2016,,,notes_section,5,20,1223
+202,2016_section_5_chunk_6,2016_section_5,main_section,주석,2016,,,notes_section,6,20,1215
+203,2016_section_5_chunk_7,2016_section_5,main_section,주석,2016,,,notes_section,7,20,1272
+204,2016_section_5_chunk_8,2016_section_5,main_section,주석,2016,,,notes_section,8,20,1339
+205,2016_section_5_chunk_9,2016_section_5,main_section,주석,2016,,,notes_section,9,20,1230
+206,2016_section_5_chunk_10,2016_section_5,main_section,주석,2016,,,notes_section,10,20,1228
+207,2016_section_5_chunk_11,2016_section_5,main_section,주석,2016,,,notes_section,11,20,1182
+208,2016_section_5_chunk_12,2016_section_5,main_section,주석,2016,,,notes_section,12,20,1096
+209,2016_section_5_chunk_13,2016_section_5,main_section,주석,2016,,,notes_section,13,20,1267
+210,2016_section_5_chunk_14,2016_section_5,main_section,주석,2016,,,notes_section,14,20,1225
+211,2016_section_5_chunk_15,2016_section_5,main_section,주석,2016,,,notes_section,15,20,1204
+212,2016_section_5_chunk_16,2016_section_5,main_section,주석,2016,,,notes_section,16,20,1265
+213,2016_section_5_chunk_17,2016_section_5,main_section,주석,2016,,,notes_section,17,20,1192
+214,2016_section_5_chunk_18,2016_section_5,main_section,주석,2016,,,notes_section,18,20,1350
+215,2016_section_5_chunk_19,2016_section_5,main_section,주석,2016,,,notes_section,19,20,634
+216,2016_section_6_chunk_0,2016_section_6,main_section,(주석,2016,,,notes_section,0,17,1182
+217,2016_section_6_chunk_1,2016_section_6,main_section,(주석,2016,,,notes_section,1,17,1351
+218,2016_section_6_chunk_2,2016_section_6,main_section,(주석,2016,,,notes_section,2,17,1342
+219,2016_section_6_chunk_3,2016_section_6,main_section,(주석,2016,,,notes_section,3,17,1198
+220,2016_section_6_chunk_4,2016_section_6,main_section,(주석,2016,,,notes_section,4,17,776
+221,2016_section_6_chunk_5,2016_section_6,main_section,(주석,2016,,,notes_section,5,17,1349
+222,2016_section_6_chunk_6,2016_section_6,main_section,(주석,2016,,,notes_section,6,17,1349
+223,2016_section_6_chunk_7,2016_section_6,main_section,(주석,2016,,,notes_section,7,17,1230
+224,2016_section_6_chunk_8,2016_section_6,main_section,(주석,2016,,,notes_section,8,17,1239
+225,2016_section_6_chunk_9,2016_section_6,main_section,(주석,2016,,,notes_section,9,17,1318
+226,2016_section_6_chunk_10,2016_section_6,main_section,(주석,2016,,,notes_section,10,17,1348
+227,2016_section_6_chunk_11,2016_section_6,main_section,(주석,2016,,,notes_section,11,17,1255
+228,2016_section_6_chunk_12,2016_section_6,main_section,(주석,2016,,,notes_section,12,17,1333
+229,2016_section_6_chunk_13,2016_section_6,main_section,(주석,2016,,,notes_section,13,17,1346
+230,2016_section_6_chunk_14,2016_section_6,main_section,(주석,2016,,,notes_section,14,17,1342
+231,2016_section_6_chunk_15,2016_section_6,main_section,(주석,2016,,,notes_section,15,17,1339
+232,2016_section_6_chunk_16,2016_section_6,main_section,(주석,2016,,,notes_section,16,17,407
+233,2016_note_1_0_chunk_0,2016_note_1_0,note_block,1. 일반적 사항 :,2016,,1,,0,1,361
+234,2016_note_2_1_chunk_0,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,0,16,1161
+235,2016_note_2_1_chunk_1,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,1,16,1306
+236,2016_note_2_1_chunk_2,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,2,16,1277
+237,2016_note_2_1_chunk_3,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,3,16,1117
+238,2016_note_2_1_chunk_4,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,4,16,1071
+239,2016_note_2_1_chunk_5,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,5,16,1243
+240,2016_note_2_1_chunk_6,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,6,16,1319
+241,2016_note_2_1_chunk_7,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,7,16,1230
+242,2016_note_2_1_chunk_8,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,8,16,1306
+243,2016_note_2_1_chunk_9,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,9,16,1132
+244,2016_note_2_1_chunk_10,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,10,16,1177
+245,2016_note_2_1_chunk_11,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,11,16,1322
+246,2016_note_2_1_chunk_12,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,12,16,1158
+247,2016_note_2_1_chunk_13,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,13,16,1293
+248,2016_note_2_1_chunk_14,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,14,16,1142
+249,2016_note_2_1_chunk_15,2016_note_2_1,note_block,2. 중요한 회계처리방침 :,2016,,2,,15,16,635
+250,2016_note_3_2_chunk_0,2016_note_3_2,note_block,3. 중요한 회계추정 및 가정 :,2016,,3,,0,2,1133
+251,2016_note_3_2_chunk_1,2016_note_3_2,note_block,3. 중요한 회계추정 및 가정 :,2016,,3,,1,2,522
+252,2016_note_6_3_chunk_0,2016_note_6_3,note_block,6. 범주별 금융상품 :,2016,,6,,0,1,100
+253,2016_note_7_4_chunk_0,2016_note_7_4,note_block,7. 금융자산의 신용건전성 :,2016,,7,,0,1,495
+254,2016_note_8_5_chunk_0,2016_note_8_5,note_block,8. 금융자산의 양도 :,2016,,8,,0,1,259
+255,2016_note_9_6_chunk_0,2016_note_9_6,note_block,9. 매도가능금융자산 :,2016,,9,,0,2,1074
+256,2016_note_9_6_chunk_1,2016_note_9_6,note_block,9. 매도가능금융자산 :,2016,,9,,1,2,323
+257,2016_note_10_7_chunk_0,2016_note_10_7,note_block,10. 매출채권 및 미수금 :,2016,,10,,0,1,428
+258,2016_note_11_8_chunk_0,2016_note_11_8,note_block,11. 재고자산 :,2016,,11,,0,1,206
+259,2016_note_12_9_chunk_0,2016_note_12_9,note_block,"12. 종속기업, 관계기업 및 공동기업 투자 :",2016,,12,,0,1,928
+260,2016_note_13_10_chunk_0,2016_note_13_10,note_block,13. 유형자산 :,2016,,13,,0,1,665
+261,2016_note_15_11_chunk_0,2016_note_15_11,note_block,15. 차입금 :,2016,,15,,0,1,91
+262,2016_note_16_12_chunk_0,2016_note_16_12,note_block,16. 사채 :,2016,,16,,0,1,641
+263,2016_note_19_13_chunk_0,2016_note_19_13,note_block,19. 우발부채와 약정사항 :,2016,,19,,0,4,984
+264,2016_note_19_13_chunk_1,2016_note_19_13,note_block,19. 우발부채와 약정사항 :,2016,,19,,1,4,746
+265,2016_note_19_13_chunk_2,2016_note_19_13,note_block,19. 우발부채와 약정사항 :,2016,,19,,2,4,1319
+266,2016_note_19_13_chunk_3,2016_note_19_13,note_block,19. 우발부채와 약정사항 :,2016,,19,,3,4,226
+267,2016_note_20_14_chunk_0,2016_note_20_14,note_block,20. 자본금 :,2016,,20,,0,1,369
+268,2016_note_21_15_chunk_0,2016_note_21_15,note_block,21. 이익잉여금 :,2016,,21,,0,1,413
+269,2016_note_22_16_chunk_0,2016_note_22_16,note_block,22. 주당배당금 :,2016,,22,,0,1,118
+270,2016_note_23_17_chunk_0,2016_note_23_17,note_block,23. 기타자본항목 :,2016,,23,,0,1,157
+271,2016_note_24_18_chunk_0,2016_note_24_18,note_block,24. 비용의 성격별 분류 :,2016,,24,,0,1,90
+272,2016_note_25_19_chunk_0,2016_note_25_19,note_block,25. 판매비와관리비 :,2016,,25,,0,1,45
+273,2016_note_26_20_chunk_0,2016_note_26_20,note_block,26. 기타수익,2016,,26,,0,1,54
+274,2016_note_27_21_chunk_0,2016_note_27_21,note_block,27. 금융수익 및 금융비용 :,2016,,27,,0,1,111
+275,2016_note_28_22_chunk_0,2016_note_28_22,note_block,28. 법인세비용 :,2016,,28,,0,1,667
+276,2016_note_29_23_chunk_0,2016_note_29_23,note_block,29. 주당이익 :,2016,,29,,0,1,286
+277,2016_note_30_24_chunk_0,2016_note_30_24,note_block,30. 현금흐름표 :,2016,,30,,0,1,260
+278,2016_note_31_25_chunk_0,2016_note_31_25,note_block,31. 재무위험관리 :,2016,,31,,0,5,1191
+279,2016_note_31_25_chunk_1,2016_note_31_25,note_block,31. 재무위험관리 :,2016,,31,,1,5,1242
+280,2016_note_31_25_chunk_2,2016_note_31_25,note_block,31. 재무위험관리 :,2016,,31,,2,5,1312
+281,2016_note_31_25_chunk_3,2016_note_31_25,note_block,31. 재무위험관리 :,2016,,31,,3,5,1306
+282,2016_note_31_25_chunk_4,2016_note_31_25,note_block,31. 재무위험관리 :,2016,,31,,4,5,512
+283,2016_note_32_26_chunk_0,2016_note_32_26,note_block,32. 특수관계자와의 거래 :,2016,,32,,0,2,1195
+284,2016_note_32_26_chunk_1,2016_note_32_26,note_block,32. 특수관계자와의 거래 :,2016,,32,,1,2,724
+285,2016_note_33_27_chunk_0,2016_note_33_27,note_block,33. 매각예정분류(처분자산집단) :,2016,,33,,0,1,436
+286,2016_note_34_28_chunk_0,2016_note_34_28,note_block,34. 보고기간 후 사건 :,2016,,34,,0,1,345
+287,2016_balance_sheet_chunk_0,2016_balance_sheet,normalized_table,balance_sheet,2016,balance_sheet,,,0,2,1159
+288,2016_balance_sheet_chunk_1,2016_balance_sheet,normalized_table,balance_sheet,2016,balance_sheet,,,1,2,1042
+289,2016_income_statement_chunk_0,2016_income_statement,normalized_table,income_statement,2016,income_statement,,,0,1,664
+290,2016_comprehensive_income_chunk_0,2016_comprehensive_income,normalized_table,comprehensive_income,2016,comprehensive_income,,,0,1,370
+291,2016_changes_in_equity_prior_period_0_chunk_0,2016_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2016,changes_in_equity,,,0,1,858
+292,2016_changes_in_equity_current_period_1_chunk_0,2016_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2016,changes_in_equity,,,0,1,761
+293,2016_cash_flow_chunk_0,2016_cash_flow,normalized_table,cash_flow,2016,cash_flow,,,0,2,1165
+294,2016_cash_flow_chunk_1,2016_cash_flow,normalized_table,cash_flow,2016,cash_flow,,,1,2,420
+295,2017_section_0_chunk_0,2017_section_0,main_section,독립된 감사인의 감사보고서,2017,,,auditor_report_title,0,1,183
+296,2017_section_1_chunk_0,2017_section_1,main_section,재무제표에 대한 경영진의 책임,2017,,,management_responsibility,0,1,135
+297,2017_section_2_chunk_0,2017_section_2,main_section,감사인의 책임,2017,,,auditor_responsibility,0,1,572
+298,2017_section_3_chunk_0,2017_section_3,main_section,감사의견,2017,,,opinion,0,1,157
+299,2017_section_4_chunk_0,2017_section_4,main_section,(첨부)재 무 제 표,2017,,,attached_financial_statements,0,1,11
+300,2017_section_5_chunk_0,2017_section_5,main_section,주석,2017,,,notes_section,0,22,1161
+301,2017_section_5_chunk_1,2017_section_5,main_section,주석,2017,,,notes_section,1,22,1238
+302,2017_section_5_chunk_2,2017_section_5,main_section,주석,2017,,,notes_section,2,22,1219
+303,2017_section_5_chunk_3,2017_section_5,main_section,주석,2017,,,notes_section,3,22,1243
+304,2017_section_5_chunk_4,2017_section_5,main_section,주석,2017,,,notes_section,4,22,1284
+305,2017_section_5_chunk_5,2017_section_5,main_section,주석,2017,,,notes_section,5,22,1136
+306,2017_section_5_chunk_6,2017_section_5,main_section,주석,2017,,,notes_section,6,22,1316
+307,2017_section_5_chunk_7,2017_section_5,main_section,주석,2017,,,notes_section,7,22,1230
+308,2017_section_5_chunk_8,2017_section_5,main_section,주석,2017,,,notes_section,8,22,1351
+309,2017_section_5_chunk_9,2017_section_5,main_section,주석,2017,,,notes_section,9,22,1289
+310,2017_section_5_chunk_10,2017_section_5,main_section,주석,2017,,,notes_section,10,22,1337
+311,2017_section_5_chunk_11,2017_section_5,main_section,주석,2017,,,notes_section,11,22,1239
+312,2017_section_5_chunk_12,2017_section_5,main_section,주석,2017,,,notes_section,12,22,1271
+313,2017_section_5_chunk_13,2017_section_5,main_section,주석,2017,,,notes_section,13,22,1130
+314,2017_section_5_chunk_14,2017_section_5,main_section,주석,2017,,,notes_section,14,22,1341
+315,2017_section_5_chunk_15,2017_section_5,main_section,주석,2017,,,notes_section,15,22,1298
+316,2017_section_5_chunk_16,2017_section_5,main_section,주석,2017,,,notes_section,16,22,1316
+317,2017_section_5_chunk_17,2017_section_5,main_section,주석,2017,,,notes_section,17,22,1271
+318,2017_section_5_chunk_18,2017_section_5,main_section,주석,2017,,,notes_section,18,22,1266
+319,2017_section_5_chunk_19,2017_section_5,main_section,주석,2017,,,notes_section,19,22,1300
+320,2017_section_5_chunk_20,2017_section_5,main_section,주석,2017,,,notes_section,20,22,1346
+321,2017_section_5_chunk_21,2017_section_5,main_section,주석,2017,,,notes_section,21,22,379
+322,2017_section_6_chunk_0,2017_section_6,main_section,(주석,2017,,,notes_section,0,17,1200
+323,2017_section_6_chunk_1,2017_section_6,main_section,(주석,2017,,,notes_section,1,17,1323
+324,2017_section_6_chunk_2,2017_section_6,main_section,(주석,2017,,,notes_section,2,17,1290
+325,2017_section_6_chunk_3,2017_section_6,main_section,(주석,2017,,,notes_section,3,17,1302
+326,2017_section_6_chunk_4,2017_section_6,main_section,(주석,2017,,,notes_section,4,17,671
+327,2017_section_6_chunk_5,2017_section_6,main_section,(주석,2017,,,notes_section,5,17,1308
+328,2017_section_6_chunk_6,2017_section_6,main_section,(주석,2017,,,notes_section,6,17,1345
+329,2017_section_6_chunk_7,2017_section_6,main_section,(주석,2017,,,notes_section,7,17,1348
+330,2017_section_6_chunk_8,2017_section_6,main_section,(주석,2017,,,notes_section,8,17,1287
+331,2017_section_6_chunk_9,2017_section_6,main_section,(주석,2017,,,notes_section,9,17,1317
+332,2017_section_6_chunk_10,2017_section_6,main_section,(주석,2017,,,notes_section,10,17,1333
+333,2017_section_6_chunk_11,2017_section_6,main_section,(주석,2017,,,notes_section,11,17,1281
+334,2017_section_6_chunk_12,2017_section_6,main_section,(주석,2017,,,notes_section,12,17,1334
+335,2017_section_6_chunk_13,2017_section_6,main_section,(주석,2017,,,notes_section,13,17,1333
+336,2017_section_6_chunk_14,2017_section_6,main_section,(주석,2017,,,notes_section,14,17,1307
+337,2017_section_6_chunk_15,2017_section_6,main_section,(주석,2017,,,notes_section,15,17,1307
+338,2017_section_6_chunk_16,2017_section_6,main_section,(주석,2017,,,notes_section,16,17,1321
+339,2017_note_1_0_chunk_0,2017_note_1_0,note_block,1. 일반적 사항 :,2017,,1,,0,1,446
+340,2017_note_2_1_chunk_0,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,0,18,1071
+341,2017_note_2_1_chunk_1,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,1,18,1309
+342,2017_note_2_1_chunk_2,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,2,18,1199
+343,2017_note_2_1_chunk_3,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,3,18,1136
+344,2017_note_2_1_chunk_4,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,4,18,1320
+345,2017_note_2_1_chunk_5,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,5,18,1264
+346,2017_note_2_1_chunk_6,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,6,18,1203
+347,2017_note_2_1_chunk_7,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,7,18,1274
+348,2017_note_2_1_chunk_8,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,8,18,1237
+349,2017_note_2_1_chunk_9,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,9,18,1204
+350,2017_note_2_1_chunk_10,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,10,18,1142
+351,2017_note_2_1_chunk_11,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,11,18,1284
+352,2017_note_2_1_chunk_12,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,12,18,1277
+353,2017_note_2_1_chunk_13,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,13,18,1206
+354,2017_note_2_1_chunk_14,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,14,18,1312
+355,2017_note_2_1_chunk_15,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,15,18,1053
+356,2017_note_2_1_chunk_16,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,16,18,1316
+357,2017_note_2_1_chunk_17,2017_note_2_1,note_block,2. 중요한 회계처리방침 :,2017,,2,,17,18,874
+358,2017_note_3_2_chunk_0,2017_note_3_2,note_block,3. 중요한 회계추정 및 가정 :,2017,,3,,0,2,1134
+359,2017_note_3_2_chunk_1,2017_note_3_2,note_block,3. 중요한 회계추정 및 가정 :,2017,,3,,1,2,522
+360,2017_note_6_3_chunk_0,2017_note_6_3,note_block,6. 범주별 금융상품 :,2017,,6,,0,1,206
+361,2017_note_7_4_chunk_0,2017_note_7_4,note_block,7. 금융자산의 신용건전성 :,2017,,7,,0,1,495
+362,2017_note_8_5_chunk_0,2017_note_8_5,note_block,8. 금융자산의 양도 :,2017,,8,,0,1,259
+363,2017_note_9_6_chunk_0,2017_note_9_6,note_block,9. 매도가능금융자산 :,2017,,9,,0,1,988
+364,2017_note_10_7_chunk_0,2017_note_10_7,note_block,10. 매출채권 및 미수금 :,2017,,10,,0,1,439
+365,2017_note_11_8_chunk_0,2017_note_11_8,note_block,11. 재고자산 :,2017,,11,,0,1,208
+366,2017_note_12_9_chunk_0,2017_note_12_9,note_block,"12. 종속기업, 관계기업 및 공동기업 투자 :",2017,,12,,0,1,804
+367,2017_note_13_10_chunk_0,2017_note_13_10,note_block,13. 유형자산 :,2017,,13,,0,1,199
+368,2017_note_15_11_chunk_0,2017_note_15_11,note_block,15. 차입금 :,2017,,15,,0,1,91
+369,2017_note_16_12_chunk_0,2017_note_16_12,note_block,16. 사채 :,2017,,16,,0,1,639
+370,2017_note_19_13_chunk_0,2017_note_19_13,note_block,19. 우발부채와 약정사항 :,2017,,19,,0,4,811
+371,2017_note_19_13_chunk_1,2017_note_19_13,note_block,19. 우발부채와 약정사항 :,2017,,19,,1,4,1288
+372,2017_note_19_13_chunk_2,2017_note_19_13,note_block,19. 우발부채와 약정사항 :,2017,,19,,2,4,1267
+373,2017_note_19_13_chunk_3,2017_note_19_13,note_block,19. 우발부채와 약정사항 :,2017,,19,,3,4,635
+374,2017_note_20_14_chunk_0,2017_note_20_14,note_block,20. 자본금 :,2017,,20,,0,1,354
+375,2017_note_21_15_chunk_0,2017_note_21_15,note_block,21. 이익잉여금 :,2017,,21,,0,1,413
+376,2017_note_22_16_chunk_0,2017_note_22_16,note_block,22. 주당배당금 :,2017,,22,,0,1,143
+377,2017_note_23_17_chunk_0,2017_note_23_17,note_block,23. 기타자본항목 :,2017,,23,,0,1,157
+378,2017_note_24_18_chunk_0,2017_note_24_18,note_block,24. 비용의 성격별 분류 :,2017,,24,,0,1,90
+379,2017_note_25_19_chunk_0,2017_note_25_19,note_block,25. 판매비와관리비 :,2017,,25,,0,1,45
+380,2017_note_26_20_chunk_0,2017_note_26_20,note_block,26. 기타수익,2017,,26,,0,1,54
+381,2017_note_27_21_chunk_0,2017_note_27_21,note_block,27. 금융수익 및 금융비용 :,2017,,27,,0,1,111
+382,2017_note_28_22_chunk_0,2017_note_28_22,note_block,28. 법인세비용 :,2017,,28,,0,1,667
+383,2017_note_29_23_chunk_0,2017_note_29_23,note_block,29. 주당이익 :,2017,,29,,0,1,142
+384,2017_note_30_24_chunk_0,2017_note_30_24,note_block,30. 현금흐름표 :,2017,,30,,0,1,334
+385,2017_note_31_25_chunk_0,2017_note_31_25,note_block,31. 재무위험관리 :,2017,,31,,0,5,1200
+386,2017_note_31_25_chunk_1,2017_note_31_25,note_block,31. 재무위험관리 :,2017,,31,,1,5,1201
+387,2017_note_31_25_chunk_2,2017_note_31_25,note_block,31. 재무위험관리 :,2017,,31,,2,5,1300
+388,2017_note_31_25_chunk_3,2017_note_31_25,note_block,31. 재무위험관리 :,2017,,31,,3,5,1314
+389,2017_note_31_25_chunk_4,2017_note_31_25,note_block,31. 재무위험관리 :,2017,,31,,4,5,543
+390,2017_note_32_26_chunk_0,2017_note_32_26,note_block,32. 특수관계자와의 거래 :,2017,,32,,0,3,1133
+391,2017_note_32_26_chunk_1,2017_note_32_26,note_block,32. 특수관계자와의 거래 :,2017,,32,,1,3,1162
+392,2017_note_32_26_chunk_2,2017_note_32_26,note_block,32. 특수관계자와의 거래 :,2017,,32,,2,3,533
+393,2017_note_33_27_chunk_0,2017_note_33_27,note_block,33. 매각예정분류(처분자산집단) :,2017,,33,,0,1,218
+394,2017_note_34_28_chunk_0,2017_note_34_28,note_block,34. 보고기간 후 사건 :,2017,,34,,0,1,615
+395,2017_balance_sheet_chunk_0,2017_balance_sheet,normalized_table,balance_sheet,2017,balance_sheet,,,0,2,1191
+396,2017_balance_sheet_chunk_1,2017_balance_sheet,normalized_table,balance_sheet,2017,balance_sheet,,,1,2,909
+397,2017_income_statement_chunk_0,2017_income_statement,normalized_table,income_statement,2017,income_statement,,,0,1,668
+398,2017_comprehensive_income_chunk_0,2017_comprehensive_income,normalized_table,comprehensive_income,2017,comprehensive_income,,,0,1,367
+399,2017_changes_in_equity_prior_period_0_chunk_0,2017_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2017,changes_in_equity,,,0,1,761
+400,2017_changes_in_equity_current_period_1_chunk_0,2017_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2017,changes_in_equity,,,0,1,751
+401,2017_cash_flow_chunk_0,2017_cash_flow,normalized_table,cash_flow,2017,cash_flow,,,0,2,1169
+402,2017_cash_flow_chunk_1,2017_cash_flow,normalized_table,cash_flow,2017,cash_flow,,,1,2,390
+403,2018_section_0_chunk_0,2018_section_0,main_section,독립된 감사인의 감사보고서,2018,,,auditor_report_title,0,1,37
+404,2018_section_1_chunk_0,2018_section_1,main_section,감사의견,2018,,,opinion,0,1,313
+405,2018_section_2_chunk_0,2018_section_2,main_section,감사의견근거,2018,,,basis_for_opinion,0,1,6
+406,2018_section_3_chunk_0,2018_section_3,main_section,"우리는 대한민국의 회계감사기준에 따라 감사를 수행하였습니다. 이 기준에 따른 우리의 책임은 이 감사보고서의 재무제표감사에 대한 감사인의 책임 단락에 기술되어 있습니다. 우리는 재무제표감사와 관련된 대한민국의 윤리적 요구사항에 따라 회사로부터 독립적이며, 그러한 요구사항에 따른 기타의 윤리적 책임들을 이행하였습니다. 우리가 입수한 감사증거가 감사의견을 위한 근거로서 충분하고 적합하다고 우리는 믿습니다.",2018,,,auditor_responsibility,0,1,225
+407,2018_section_4_chunk_0,2018_section_4,main_section,핵심감사사항,2018,,,key_audit_matters,0,1,880
+408,2018_section_5_chunk_0,2018_section_5,main_section,핵심감사사항,2018,,,key_audit_matters,0,3,1193
+409,2018_section_5_chunk_1,2018_section_5,main_section,핵심감사사항,2018,,,key_audit_matters,1,3,1231
+410,2018_section_5_chunk_2,2018_section_5,main_section,핵심감사사항,2018,,,key_audit_matters,2,3,452
+411,2018_section_6_chunk_0,2018_section_6,main_section,(첨부)재 무 제 표,2018,,,attached_financial_statements,0,1,11
+412,2018_section_7_chunk_0,2018_section_7,main_section,주석,2018,,,notes_section,0,18,1186
+413,2018_section_7_chunk_1,2018_section_7,main_section,주석,2018,,,notes_section,1,18,1322
+414,2018_section_7_chunk_2,2018_section_7,main_section,주석,2018,,,notes_section,2,18,1323
+415,2018_section_7_chunk_3,2018_section_7,main_section,주석,2018,,,notes_section,3,18,1162
+416,2018_section_7_chunk_4,2018_section_7,main_section,주석,2018,,,notes_section,4,18,1264
+417,2018_section_7_chunk_5,2018_section_7,main_section,주석,2018,,,notes_section,5,18,1258
+418,2018_section_7_chunk_6,2018_section_7,main_section,주석,2018,,,notes_section,6,18,1245
+419,2018_section_7_chunk_7,2018_section_7,main_section,주석,2018,,,notes_section,7,18,1283
+420,2018_section_7_chunk_8,2018_section_7,main_section,주석,2018,,,notes_section,8,18,1289
+421,2018_section_7_chunk_9,2018_section_7,main_section,주석,2018,,,notes_section,9,18,1315
+422,2018_section_7_chunk_10,2018_section_7,main_section,주석,2018,,,notes_section,10,18,1350
+423,2018_section_7_chunk_11,2018_section_7,main_section,주석,2018,,,notes_section,11,18,1325
+424,2018_section_7_chunk_12,2018_section_7,main_section,주석,2018,,,notes_section,12,18,1311
+425,2018_section_7_chunk_13,2018_section_7,main_section,주석,2018,,,notes_section,13,18,1255
+426,2018_section_7_chunk_14,2018_section_7,main_section,주석,2018,,,notes_section,14,18,1222
+427,2018_section_7_chunk_15,2018_section_7,main_section,주석,2018,,,notes_section,15,18,1116
+428,2018_section_7_chunk_16,2018_section_7,main_section,주석,2018,,,notes_section,16,18,1318
+429,2018_section_7_chunk_17,2018_section_7,main_section,주석,2018,,,notes_section,17,18,522
+430,2018_section_8_chunk_0,2018_section_8,main_section,(주석,2018,,,notes_section,0,2,1124
+431,2018_section_8_chunk_1,2018_section_8,main_section,(주석,2018,,,notes_section,1,2,525
+432,2018_section_9_chunk_0,2018_section_9,main_section,주석,2018,,,notes_section,0,15,1195
+433,2018_section_9_chunk_1,2018_section_9,main_section,주석,2018,,,notes_section,1,15,1294
+434,2018_section_9_chunk_2,2018_section_9,main_section,주석,2018,,,notes_section,2,15,1352
+435,2018_section_9_chunk_3,2018_section_9,main_section,주석,2018,,,notes_section,3,15,1242
+436,2018_section_9_chunk_4,2018_section_9,main_section,주석,2018,,,notes_section,4,15,1339
+437,2018_section_9_chunk_5,2018_section_9,main_section,주석,2018,,,notes_section,5,15,1347
+438,2018_section_9_chunk_6,2018_section_9,main_section,주석,2018,,,notes_section,6,15,1290
+439,2018_section_9_chunk_7,2018_section_9,main_section,주석,2018,,,notes_section,7,15,1141
+440,2018_section_9_chunk_8,2018_section_9,main_section,주석,2018,,,notes_section,8,15,1335
+441,2018_section_9_chunk_9,2018_section_9,main_section,주석,2018,,,notes_section,9,15,1187
+442,2018_section_9_chunk_10,2018_section_9,main_section,주석,2018,,,notes_section,10,15,1343
+443,2018_section_9_chunk_11,2018_section_9,main_section,주석,2018,,,notes_section,11,15,1279
+444,2018_section_9_chunk_12,2018_section_9,main_section,주석,2018,,,notes_section,12,15,1313
+445,2018_section_9_chunk_13,2018_section_9,main_section,주석,2018,,,notes_section,13,15,1324
+446,2018_section_9_chunk_14,2018_section_9,main_section,주석,2018,,,notes_section,14,15,907
+447,2018_note_1_0_chunk_0,2018_note_1_0,note_block,1. 일반적 사항 :,2018,,1,,0,1,442
+448,2018_note_2_1_chunk_0,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,0,15,1165
+449,2018_note_2_1_chunk_1,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,1,15,1160
+450,2018_note_2_1_chunk_2,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,2,15,1316
+451,2018_note_2_1_chunk_3,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,3,15,1181
+452,2018_note_2_1_chunk_4,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,4,15,1284
+453,2018_note_2_1_chunk_5,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,5,15,1052
+454,2018_note_2_1_chunk_6,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,6,15,1151
+455,2018_note_2_1_chunk_7,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,7,15,1220
+456,2018_note_2_1_chunk_8,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,8,15,1113
+457,2018_note_2_1_chunk_9,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,9,15,1285
+458,2018_note_2_1_chunk_10,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,10,15,1320
+459,2018_note_2_1_chunk_11,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,11,15,1295
+460,2018_note_2_1_chunk_12,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,12,15,1282
+461,2018_note_2_1_chunk_13,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,13,15,1223
+462,2018_note_2_1_chunk_14,2018_note_2_1,note_block,2. 중요한 회계처리방침 :,2018,,2,,14,15,1172
+463,2018_note_3_2_chunk_0,2018_note_3_2,note_block,3. 중요한 회계추정 및 가정 :,2018,,3,,0,2,984
+464,2018_note_3_2_chunk_1,2018_note_3_2,note_block,3. 중요한 회계추정 및 가정 :,2018,,3,,1,2,1227
+465,2018_note_6_3_chunk_0,2018_note_6_3,note_block,6. 범주별 금융상품 :,2018,,6,,0,1,205
+466,2018_note_7_4_chunk_0,2018_note_7_4,note_block,7. 금융자산의 양도 :,2018,,7,,0,1,261
+467,2018_note_8_5_chunk_0,2018_note_8_5,note_block,8. 공정가치금융자산 :,2018,,8,,0,1,326
+468,2018_note_9_6_chunk_0,2018_note_9_6,note_block,9. 매도가능금융자산 :,2018,,9,,0,1,899
+469,2018_note_10_7_chunk_0,2018_note_10_7,note_block,10. 매출채권 및 미수금 :,2018,,10,,0,1,421
+470,2018_note_11_8_chunk_0,2018_note_11_8,note_block,11. 재고자산 :,2018,,11,,0,1,204
+471,2018_note_12_9_chunk_0,2018_note_12_9,note_block,"12. 종속기업, 관계기업 및 공동기업 투자 :",2018,,12,,0,1,182
+472,2018_note_13_10_chunk_0,2018_note_13_10,note_block,13. 유형자산 :,2018,,13,,0,1,199
+473,2018_note_15_11_chunk_0,2018_note_15_11,note_block,15. 차입금 :,2018,,15,,0,1,92
+474,2018_note_16_12_chunk_0,2018_note_16_12,note_block,16. 사채 :,2018,,16,,0,1,633
+475,2018_note_19_13_chunk_0,2018_note_19_13,note_block,19. 우발부채와 약정사항 :,2018,,19,,0,2,1187
+476,2018_note_19_13_chunk_1,2018_note_19_13,note_block,19. 우발부채와 약정사항 :,2018,,19,,1,2,422
+477,2018_note_20_14_chunk_0,2018_note_20_14,note_block,20. 계약부채 :,2018,,20,,0,1,160
+478,2018_note_21_15_chunk_0,2018_note_21_15,note_block,21. 자본금 :,2018,,21,,0,1,442
+479,2018_note_22_16_chunk_0,2018_note_22_16,note_block,22. 이익잉여금 :,2018,,22,,0,1,655
+480,2018_note_23_17_chunk_0,2018_note_23_17,note_block,23. 기타자본항목 :,2018,,23,,0,1,150
+481,2018_note_24_18_chunk_0,2018_note_24_18,note_block,24. 비용의 성격별 분류 :,2018,,24,,0,1,90
+482,2018_note_25_19_chunk_0,2018_note_25_19,note_block,25. 판매비와관리비 :,2018,,25,,0,1,45
+483,2018_note_26_20_chunk_0,2018_note_26_20,note_block,26. 기타수익,2018,,26,,0,1,54
+484,2018_note_27_21_chunk_0,2018_note_27_21,note_block,27. 금융수익 및 금융비용 :,2018,,27,,0,1,111
+485,2018_note_28_22_chunk_0,2018_note_28_22,note_block,28. 법인세비용 :,2018,,28,,0,1,664
+486,2018_note_29_23_chunk_0,2018_note_29_23,note_block,29. 주당이익 :,2018,,29,,0,1,142
+487,2018_note_30_24_chunk_0,2018_note_30_24,note_block,30. 현금흐름표 :,2018,,30,,0,1,374
+488,2018_note_31_25_chunk_0,2018_note_31_25,note_block,31. 재무위험관리 :,2018,,31,,0,5,1197
+489,2018_note_31_25_chunk_1,2018_note_31_25,note_block,31. 재무위험관리 :,2018,,31,,1,5,1258
+490,2018_note_31_25_chunk_2,2018_note_31_25,note_block,31. 재무위험관리 :,2018,,31,,2,5,1295
+491,2018_note_31_25_chunk_3,2018_note_31_25,note_block,31. 재무위험관리 :,2018,,31,,3,5,1287
+492,2018_note_31_25_chunk_4,2018_note_31_25,note_block,31. 재무위험관리 :,2018,,31,,4,5,531
+493,2018_note_32_26_chunk_0,2018_note_32_26,note_block,32. 특수관계자와의 거래 :,2018,,32,,0,3,1177
+494,2018_note_32_26_chunk_1,2018_note_32_26,note_block,32. 특수관계자와의 거래 :,2018,,32,,1,3,1318
+495,2018_note_32_26_chunk_2,2018_note_32_26,note_block,32. 특수관계자와의 거래 :,2018,,32,,2,3,702
+496,2018_balance_sheet_chunk_0,2018_balance_sheet,normalized_table,balance_sheet,2018,balance_sheet,,,0,2,1166
+497,2018_balance_sheet_chunk_1,2018_balance_sheet,normalized_table,balance_sheet,2018,balance_sheet,,,1,2,1019
+498,2018_income_statement_chunk_0,2018_income_statement,normalized_table,income_statement,2018,income_statement,,,0,1,662
+499,2018_comprehensive_income_chunk_0,2018_comprehensive_income,normalized_table,comprehensive_income,2018,comprehensive_income,,,0,1,404
+500,2018_changes_in_equity_prior_period_0_chunk_0,2018_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2018,changes_in_equity,,,0,1,701
+501,2018_changes_in_equity_current_period_1_chunk_0,2018_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2018,changes_in_equity,,,0,1,854
+502,2018_cash_flow_chunk_0,2018_cash_flow,normalized_table,cash_flow,2018,cash_flow,,,0,2,1181
+503,2018_cash_flow_chunk_1,2018_cash_flow,normalized_table,cash_flow,2018,cash_flow,,,1,2,488
+504,2019_section_0_chunk_0,2019_section_0,main_section,독립된 감사인의 감사보고서,2019,,,auditor_report_title,0,1,36
+505,2019_section_1_chunk_0,2019_section_1,main_section,감사의견,2019,,,opinion,0,1,449
+506,2019_section_2_chunk_0,2019_section_2,main_section,감사의견근거,2019,,,basis_for_opinion,0,1,6
+507,2019_section_3_chunk_0,2019_section_3,main_section,"우리는 대한민국의 회계감사기준에 따라 감사를 수행하였습니다. 이 기준에 따른 우리의 책임은 이 감사보고서의 재무제표감사에 대한 감사인의 책임 단락에 기술되어 있습니다. 우리는 재무제표감사와 관련된 대한민국의 윤리적 요구사항에 따라 회사로부터 독립적이며, 그러한 요구사항에 따른 기타의 윤리적 책임들을 이행하였습니다. 우리가 입수한 감사증거가 감사의견을 위한 근거로서 충분하고 적합하다고 우리는 믿습니다.",2019,,,auditor_responsibility,0,1,225
+508,2019_section_4_chunk_0,2019_section_4,main_section,핵심감사사항,2019,,,key_audit_matters,0,2,1176
+509,2019_section_4_chunk_1,2019_section_4,main_section,핵심감사사항,2019,,,key_audit_matters,1,2,877
+510,2019_section_5_chunk_0,2019_section_5,main_section,재무제표감사에 대한 감사인의 책임,2019,,,auditor_responsibility,0,2,1131
+511,2019_section_5_chunk_1,2019_section_5,main_section,재무제표감사에 대한 감사인의 책임,2019,,,auditor_responsibility,1,2,681
+512,2019_section_6_chunk_0,2019_section_6,main_section,(첨부)재 무 제 표,2019,,,attached_financial_statements,0,1,11
+513,2019_section_7_chunk_0,2019_section_7,main_section,주석,2019,,,notes_section,0,18,1198
+514,2019_section_7_chunk_1,2019_section_7,main_section,주석,2019,,,notes_section,1,18,1046
+515,2019_section_7_chunk_2,2019_section_7,main_section,주석,2019,,,notes_section,2,18,1267
+516,2019_section_7_chunk_3,2019_section_7,main_section,주석,2019,,,notes_section,3,18,1343
+517,2019_section_7_chunk_4,2019_section_7,main_section,주석,2019,,,notes_section,4,18,1187
+518,2019_section_7_chunk_5,2019_section_7,main_section,주석,2019,,,notes_section,5,18,1247
+519,2019_section_7_chunk_6,2019_section_7,main_section,주석,2019,,,notes_section,6,18,1330
+520,2019_section_7_chunk_7,2019_section_7,main_section,주석,2019,,,notes_section,7,18,1343
+521,2019_section_7_chunk_8,2019_section_7,main_section,주석,2019,,,notes_section,8,18,1331
+522,2019_section_7_chunk_9,2019_section_7,main_section,주석,2019,,,notes_section,9,18,1349
+523,2019_section_7_chunk_10,2019_section_7,main_section,주석,2019,,,notes_section,10,18,1337
+524,2019_section_7_chunk_11,2019_section_7,main_section,주석,2019,,,notes_section,11,18,1335
+525,2019_section_7_chunk_12,2019_section_7,main_section,주석,2019,,,notes_section,12,18,1128
+526,2019_section_7_chunk_13,2019_section_7,main_section,주석,2019,,,notes_section,13,18,1285
+527,2019_section_7_chunk_14,2019_section_7,main_section,주석,2019,,,notes_section,14,18,1346
+528,2019_section_7_chunk_15,2019_section_7,main_section,주석,2019,,,notes_section,15,18,1192
+529,2019_section_7_chunk_16,2019_section_7,main_section,주석,2019,,,notes_section,16,18,1258
+530,2019_section_7_chunk_17,2019_section_7,main_section,주석,2019,,,notes_section,17,18,348
+531,2019_section_8_chunk_0,2019_section_8,main_section,(주석,2019,,,notes_section,0,1,474
+532,2019_section_9_chunk_0,2019_section_9,main_section,주석,2019,,,notes_section,0,13,1191
+533,2019_section_9_chunk_1,2019_section_9,main_section,주석,2019,,,notes_section,1,13,1327
+534,2019_section_9_chunk_2,2019_section_9,main_section,주석,2019,,,notes_section,2,13,1324
+535,2019_section_9_chunk_3,2019_section_9,main_section,주석,2019,,,notes_section,3,13,1349
+536,2019_section_9_chunk_4,2019_section_9,main_section,주석,2019,,,notes_section,4,13,1275
+537,2019_section_9_chunk_5,2019_section_9,main_section,주석,2019,,,notes_section,5,13,1277
+538,2019_section_9_chunk_6,2019_section_9,main_section,주석,2019,,,notes_section,6,13,1281
+539,2019_section_9_chunk_7,2019_section_9,main_section,주석,2019,,,notes_section,7,13,1275
+540,2019_section_9_chunk_8,2019_section_9,main_section,주석,2019,,,notes_section,8,13,1286
+541,2019_section_9_chunk_9,2019_section_9,main_section,주석,2019,,,notes_section,9,13,1292
+542,2019_section_9_chunk_10,2019_section_9,main_section,주석,2019,,,notes_section,10,13,1264
+543,2019_section_9_chunk_11,2019_section_9,main_section,주석,2019,,,notes_section,11,13,1316
+544,2019_section_9_chunk_12,2019_section_9,main_section,주석,2019,,,notes_section,12,13,492
+545,2019_note_1_0_chunk_0,2019_note_1_0,note_block,1. 일반적 사항 :,2019,,1,,0,1,447
+546,2019_note_2_1_chunk_0,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,0,15,1067
+547,2019_note_2_1_chunk_1,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,1,15,1256
+548,2019_note_2_1_chunk_2,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,2,15,1280
+549,2019_note_2_1_chunk_3,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,3,15,1231
+550,2019_note_2_1_chunk_4,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,4,15,1159
+551,2019_note_2_1_chunk_5,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,5,15,1322
+552,2019_note_2_1_chunk_6,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,6,15,1315
+553,2019_note_2_1_chunk_7,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,7,15,1319
+554,2019_note_2_1_chunk_8,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,8,15,1036
+555,2019_note_2_1_chunk_9,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,9,15,1091
+556,2019_note_2_1_chunk_10,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,10,15,1146
+557,2019_note_2_1_chunk_11,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,11,15,1305
+558,2019_note_2_1_chunk_12,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,12,15,1099
+559,2019_note_2_1_chunk_13,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,13,15,1254
+560,2019_note_2_1_chunk_14,2019_note_2_1,note_block,2. 중요한 회계처리방침:,2019,,2,,14,15,469
+561,2019_note_3_2_chunk_0,2019_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2019,,3,,0,3,1155
+562,2019_note_3_2_chunk_1,2019_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2019,,3,,1,3,1132
+563,2019_note_3_2_chunk_2,2019_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2019,,3,,2,3,819
+564,2019_note_6_3_chunk_0,2019_note_6_3,note_block,6. 범주별 금융상품:,2019,,6,,0,1,98
+565,2019_note_7_4_chunk_0,2019_note_7_4,note_block,7. 금융자산의 양도:,2019,,7,,0,1,263
+566,2019_note_8_5_chunk_0,2019_note_8_5,note_block,8. 공정가치금융자산:,2019,,8,,0,1,264
+567,2019_note_9_6_chunk_0,2019_note_9_6,note_block,9. 매출채권 및 미수금:,2019,,9,,0,1,365
+568,2019_note_10_7_chunk_0,2019_note_10_7,note_block,10. 재고자산 :,2019,,10,,0,1,136
+569,2019_note_11_8_chunk_0,2019_note_11_8,note_block,"11. 종속기업, 관계기업 및 공동기업 투자:",2019,,11,,0,1,282
+570,2019_note_12_9_chunk_0,2019_note_12_9,note_block,12. 유형자산 :,2019,,12,,0,1,512
+571,2019_note_14_10_chunk_0,2019_note_14_10,note_block,14. 차입금:,2019,,14,,0,1,81
+572,2019_note_15_11_chunk_0,2019_note_15_11,note_block,15. 사채:,2019,,15,,0,1,587
+573,2019_note_18_12_chunk_0,2019_note_18_12,note_block,18. 우발부채와 약정사항:,2019,,18,,0,1,991
+574,2019_note_19_13_chunk_0,2019_note_19_13,note_block,19. 계약부채:,2019,,19,,0,1,112
+575,2019_note_20_14_chunk_0,2019_note_20_14,note_block,20. 자본금:,2019,,20,,0,1,240
+576,2019_note_21_15_chunk_0,2019_note_21_15,note_block,21. 이익잉여금:,2019,,21,,0,1,274
+577,2019_note_22_16_chunk_0,2019_note_22_16,note_block,22. 기타자본항목:,2019,,22,,0,1,44
+578,2019_note_23_17_chunk_0,2019_note_23_17,note_block,23. 비용의 성격별 분류:,2019,,23,,0,1,50
+579,2019_note_24_18_chunk_0,2019_note_24_18,note_block,24. 판매비와관리비:,2019,,24,,0,1,44
+580,2019_note_25_19_chunk_0,2019_note_25_19,note_block,25. 기타수익,2019,,25,,0,1,53
+581,2019_note_26_20_chunk_0,2019_note_26_20,note_block,26. 금융수익 및 금융비용:,2019,,26,,0,1,104
+582,2019_note_27_21_chunk_0,2019_note_27_21,note_block,27. 법인세비용:,2019,,27,,0,1,230
+583,2019_note_28_22_chunk_0,2019_note_28_22,note_block,28. 주당이익:,2019,,28,,0,1,141
+584,2019_note_29_23_chunk_0,2019_note_29_23,note_block,29. 현금흐름표:,2019,,29,,0,1,416
+585,2019_note_30_24_chunk_0,2019_note_30_24,note_block,30. 재무위험관리:,2019,,30,,0,5,1185
+586,2019_note_30_24_chunk_1,2019_note_30_24,note_block,30. 재무위험관리:,2019,,30,,1,5,1318
+587,2019_note_30_24_chunk_2,2019_note_30_24,note_block,30. 재무위험관리:,2019,,30,,2,5,1306
+588,2019_note_30_24_chunk_3,2019_note_30_24,note_block,30. 재무위험관리:,2019,,30,,3,5,1284
+589,2019_note_30_24_chunk_4,2019_note_30_24,note_block,30. 재무위험관리:,2019,,30,,4,5,384
+590,2019_note_31_25_chunk_0,2019_note_31_25,note_block,31. 부문별 보고:,2019,,31,,0,1,329
+591,2019_note_32_26_chunk_0,2019_note_32_26,note_block,32. 특수관계자와의 거래:,2019,,32,,0,1,994
+592,2019_note_33_27_chunk_0,2019_note_33_27,note_block,33. 사업결합:,2019,,33,,0,1,261
+593,2019_balance_sheet_chunk_0,2019_balance_sheet,normalized_table,balance_sheet,2019,balance_sheet,,,0,2,1174
+594,2019_balance_sheet_chunk_1,2019_balance_sheet,normalized_table,balance_sheet,2019,balance_sheet,,,1,2,973
+595,2019_income_statement_chunk_0,2019_income_statement,normalized_table,income_statement,2019,income_statement,,,0,1,664
+596,2019_comprehensive_income_chunk_0,2019_comprehensive_income,normalized_table,comprehensive_income,2019,comprehensive_income,,,0,1,367
+597,2019_changes_in_equity_prior_period_0_chunk_0,2019_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2019,changes_in_equity,,,0,1,846
+598,2019_changes_in_equity_current_period_1_chunk_0,2019_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2019,changes_in_equity,,,0,1,582
+599,2019_cash_flow_chunk_0,2019_cash_flow,normalized_table,cash_flow,2019,cash_flow,,,0,2,1160
+600,2019_cash_flow_chunk_1,2019_cash_flow,normalized_table,cash_flow,2019,cash_flow,,,1,2,499
+601,2020_section_0_chunk_0,2020_section_0,main_section,독립된 감사인의 감사보고서,2020,,,auditor_report_title,0,1,14
+602,2020_section_1_chunk_0,2020_section_1,main_section,감사의견,2020,,,opinion,0,1,408
+603,2020_section_2_chunk_0,2020_section_2,main_section,감사의견근거,2020,,,basis_for_opinion,0,1,6
+604,2020_section_3_chunk_0,2020_section_3,main_section,"우리는 대한민국의 회계감사기준에 따라 감사를 수행하였습니다. 이 기준에 따른 우리의 책임은 이 감사보고서의 재무제표감사에 대한 감사인의 책임 단락에 기술되어 있습니다. 우리는 재무제표감사와 관련된 대한민국의 윤리적 요구사항에 따라 회사로부터 독립적이며, 그러한 요구사항에 따른 기타의 윤리적 책임을 이행하였습니다. 우리가 입수한 감사증거가 감사의견을 위한 근거로서 충분하고 적합하다고 우리는 믿습니다.",2020,,,auditor_responsibility,0,1,224
+605,2020_section_4_chunk_0,2020_section_4,main_section,핵심감사사항,2020,,,key_audit_matters,0,1,877
+606,2020_section_5_chunk_0,2020_section_5,main_section,기타사항,2020,,,other_matters,0,1,439
+607,2020_section_6_chunk_0,2020_section_6,main_section,재무제표감사에 대한 감사인의 책임,2020,,,auditor_responsibility,0,2,1129
+608,2020_section_6_chunk_1,2020_section_6,main_section,재무제표감사에 대한 감사인의 책임,2020,,,auditor_responsibility,1,2,686
+609,2020_section_7_chunk_0,2020_section_7,main_section,(첨부)재 무 제 표,2020,,,attached_financial_statements,0,1,11
+610,2020_section_8_chunk_0,2020_section_8,main_section,주석,2020,,,notes_section,0,17,1200
+611,2020_section_8_chunk_1,2020_section_8,main_section,주석,2020,,,notes_section,1,17,1289
+612,2020_section_8_chunk_2,2020_section_8,main_section,주석,2020,,,notes_section,2,17,1351
+613,2020_section_8_chunk_3,2020_section_8,main_section,주석,2020,,,notes_section,3,17,1271
+614,2020_section_8_chunk_4,2020_section_8,main_section,주석,2020,,,notes_section,4,17,1315
+615,2020_section_8_chunk_5,2020_section_8,main_section,주석,2020,,,notes_section,5,17,1310
+616,2020_section_8_chunk_6,2020_section_8,main_section,주석,2020,,,notes_section,6,17,1315
+617,2020_section_8_chunk_7,2020_section_8,main_section,주석,2020,,,notes_section,7,17,1227
+618,2020_section_8_chunk_8,2020_section_8,main_section,주석,2020,,,notes_section,8,17,1073
+619,2020_section_8_chunk_9,2020_section_8,main_section,주석,2020,,,notes_section,9,17,1219
+620,2020_section_8_chunk_10,2020_section_8,main_section,주석,2020,,,notes_section,10,17,1309
+621,2020_section_8_chunk_11,2020_section_8,main_section,주석,2020,,,notes_section,11,17,1294
+622,2020_section_8_chunk_12,2020_section_8,main_section,주석,2020,,,notes_section,12,17,1348
+623,2020_section_8_chunk_13,2020_section_8,main_section,주석,2020,,,notes_section,13,17,1314
+624,2020_section_8_chunk_14,2020_section_8,main_section,주석,2020,,,notes_section,14,17,1216
+625,2020_section_8_chunk_15,2020_section_8,main_section,주석,2020,,,notes_section,15,17,1345
+626,2020_section_8_chunk_16,2020_section_8,main_section,주석,2020,,,notes_section,16,17,975
+627,2020_section_9_chunk_0,2020_section_9,main_section,(주석,2020,,,notes_section,0,13,1164
+628,2020_section_9_chunk_1,2020_section_9,main_section,(주석,2020,,,notes_section,1,13,1340
+629,2020_section_9_chunk_2,2020_section_9,main_section,(주석,2020,,,notes_section,2,13,1324
+630,2020_section_9_chunk_3,2020_section_9,main_section,(주석,2020,,,notes_section,3,13,1349
+631,2020_section_9_chunk_4,2020_section_9,main_section,(주석,2020,,,notes_section,4,13,1349
+632,2020_section_9_chunk_5,2020_section_9,main_section,(주석,2020,,,notes_section,5,13,1342
+633,2020_section_9_chunk_6,2020_section_9,main_section,(주석,2020,,,notes_section,6,13,1340
+634,2020_section_9_chunk_7,2020_section_9,main_section,(주석,2020,,,notes_section,7,13,1348
+635,2020_section_9_chunk_8,2020_section_9,main_section,(주석,2020,,,notes_section,8,13,1331
+636,2020_section_9_chunk_9,2020_section_9,main_section,(주석,2020,,,notes_section,9,13,1340
+637,2020_section_9_chunk_10,2020_section_9,main_section,(주석,2020,,,notes_section,10,13,1166
+638,2020_section_9_chunk_11,2020_section_9,main_section,(주석,2020,,,notes_section,11,13,1330
+639,2020_section_9_chunk_12,2020_section_9,main_section,(주석,2020,,,notes_section,12,13,491
+640,2020_note_1_0_chunk_0,2020_note_1_0,note_block,1. 일반적 사항 :,2020,,1,,0,1,442
+641,2020_note_2_1_chunk_0,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,0,14,1190
+642,2020_note_2_1_chunk_1,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,1,14,1318
+643,2020_note_2_1_chunk_2,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,2,14,1076
+644,2020_note_2_1_chunk_3,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,3,14,1161
+645,2020_note_2_1_chunk_4,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,4,14,1253
+646,2020_note_2_1_chunk_5,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,5,14,1303
+647,2020_note_2_1_chunk_6,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,6,14,1308
+648,2020_note_2_1_chunk_7,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,7,14,1292
+649,2020_note_2_1_chunk_8,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,8,14,1286
+650,2020_note_2_1_chunk_9,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,9,14,1212
+651,2020_note_2_1_chunk_10,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,10,14,1279
+652,2020_note_2_1_chunk_11,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,11,14,1316
+653,2020_note_2_1_chunk_12,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,12,14,1279
+654,2020_note_2_1_chunk_13,2020_note_2_1,note_block,2. 중요한 회계처리방침:,2020,,2,,13,14,696
+655,2020_note_3_2_chunk_0,2020_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2020,,3,,0,3,1083
+656,2020_note_3_2_chunk_1,2020_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2020,,3,,1,3,1315
+657,2020_note_3_2_chunk_2,2020_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2020,,3,,2,3,724
+658,2020_note_5_3_chunk_0,2020_note_5_3,note_block,5. 금융자산의 양도:,2020,,5,,0,1,263
+659,2020_note_6_4_chunk_0,2020_note_6_4,note_block,6. 공정가치금융자산:,2020,,6,,0,1,267
+660,2020_note_7_5_chunk_0,2020_note_7_5,note_block,7. 매출채권 및 미수금:,2020,,7,,0,1,364
+661,2020_note_8_6_chunk_0,2020_note_8_6,note_block,8. 재고자산 :,2020,,8,,0,1,136
+662,2020_note_9_7_chunk_0,2020_note_9_7,note_block,"9. 종속기업, 관계기업 및 공동기업 투자:",2020,,9,,0,1,257
+663,2020_note_10_8_chunk_0,2020_note_10_8,note_block,10. 유형자산 :,2020,,10,,0,1,708
+664,2020_note_12_9_chunk_0,2020_note_12_9,note_block,12. 차입금:,2020,,12,,0,1,81
+665,2020_note_13_10_chunk_0,2020_note_13_10,note_block,13. 사채:,2020,,13,,0,1,559
+666,2020_note_16_11_chunk_0,2020_note_16_11,note_block,16. 우발부채와 약정사항:,2020,,16,,0,1,783
+667,2020_note_17_12_chunk_0,2020_note_17_12,note_block,17. 계약부채:,2020,,17,,0,1,90
+668,2020_note_18_13_chunk_0,2020_note_18_13,note_block,18. 자본금:,2020,,18,,0,1,287
+669,2020_note_19_14_chunk_0,2020_note_19_14,note_block,19. 이익잉여금:,2020,,19,,0,1,276
+670,2020_note_20_15_chunk_0,2020_note_20_15,note_block,20. 기타자본항목:,2020,,20,,0,1,44
+671,2020_note_21_16_chunk_0,2020_note_21_16,note_block,21. 비용의 성격별 분류:,2020,,21,,0,1,50
+672,2020_note_22_17_chunk_0,2020_note_22_17,note_block,22. 판매비와관리비:,2020,,22,,0,1,45
+673,2020_note_23_18_chunk_0,2020_note_23_18,note_block,23. 기타수익,2020,,23,,0,1,53
+674,2020_note_24_19_chunk_0,2020_note_24_19,note_block,24. 금융수익 및 금융비용:,2020,,24,,0,1,104
+675,2020_note_25_20_chunk_0,2020_note_25_20,note_block,25. 법인세비용:,2020,,25,,0,1,235
+676,2020_note_26_21_chunk_0,2020_note_26_21,note_block,26. 주당이익:,2020,,26,,0,1,142
+677,2020_note_27_22_chunk_0,2020_note_27_22,note_block,27. 현금흐름표:,2020,,27,,0,1,518
+678,2020_note_28_23_chunk_0,2020_note_28_23,note_block,28. 재무위험관리:,2020,,28,,0,5,1046
+679,2020_note_28_23_chunk_1,2020_note_28_23,note_block,28. 재무위험관리:,2020,,28,,1,5,1297
+680,2020_note_28_23_chunk_2,2020_note_28_23,note_block,28. 재무위험관리:,2020,,28,,2,5,1318
+681,2020_note_28_23_chunk_3,2020_note_28_23,note_block,28. 재무위험관리:,2020,,28,,3,5,1301
+682,2020_note_28_23_chunk_4,2020_note_28_23,note_block,28. 재무위험관리:,2020,,28,,4,5,438
+683,2020_note_29_24_chunk_0,2020_note_29_24,note_block,29. 부문별 보고:,2020,,29,,0,1,335
+684,2020_note_30_25_chunk_0,2020_note_30_25,note_block,30. 특수관계자와의 거래:,2020,,30,,0,1,894
+685,2020_balance_sheet_chunk_0,2020_balance_sheet,normalized_table,balance_sheet,2020,balance_sheet,,,0,2,1186
+686,2020_balance_sheet_chunk_1,2020_balance_sheet,normalized_table,balance_sheet,2020,balance_sheet,,,1,2,950
+687,2020_income_statement_chunk_0,2020_income_statement,normalized_table,income_statement,2020,income_statement,,,0,1,670
+688,2020_comprehensive_income_chunk_0,2020_comprehensive_income,normalized_table,comprehensive_income,2020,comprehensive_income,,,0,1,370
+689,2020_changes_in_equity_prior_period_0_chunk_0,2020_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2020,changes_in_equity,,,0,1,584
+690,2020_changes_in_equity_current_period_1_chunk_0,2020_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2020,changes_in_equity,,,0,1,576
+691,2020_cash_flow_chunk_0,2020_cash_flow,normalized_table,cash_flow,2020,cash_flow,,,0,2,1176
+692,2020_cash_flow_chunk_1,2020_cash_flow,normalized_table,cash_flow,2020,cash_flow,,,1,2,369
+693,2021_section_0_chunk_0,2021_section_0,main_section,독립된 감사인의 감사보고서,2021,,,auditor_report_title,0,1,14
+694,2021_section_1_chunk_0,2021_section_1,main_section,감사의견,2021,,,opinion,0,1,441
+695,2021_section_2_chunk_0,2021_section_2,main_section,감사의견근거,2021,,,basis_for_opinion,0,1,6
+696,2021_section_3_chunk_0,2021_section_3,main_section,"우리는 대한민국의 회계감사기준에 따라 감사를 수행하였습니다. 이 기준에 따른 우리의 책임은 이 감사보고서의 재무제표감사에 대한 감사인의 책임 단락에 기술되어 있습니다. 우리는 재무제표감사와 관련된 대한민국의 윤리적 요구사항에 따라 회사로부터 독립적이며, 그러한 요구사항에 따른 기타의 윤리적 책임을 이행하였습니다. 우리가 입수한 감사증거가 감사의견을 위한 근거로서 충분하고 적합하다고 우리는 믿습니다.",2021,,,auditor_responsibility,0,1,224
+697,2021_section_4_chunk_0,2021_section_4,main_section,핵심감사사항,2021,,,key_audit_matters,0,2,1066
+698,2021_section_4_chunk_1,2021_section_4,main_section,핵심감사사항,2021,,,key_audit_matters,1,2,332
+699,2021_section_5_chunk_0,2021_section_5,main_section,재무제표감사에 대한 감사인의 책임,2021,,,auditor_responsibility,0,2,1126
+700,2021_section_5_chunk_1,2021_section_5,main_section,재무제표감사에 대한 감사인의 책임,2021,,,auditor_responsibility,1,2,678
+701,2021_section_6_chunk_0,2021_section_6,main_section,(첨부)재 무 제 표,2021,,,attached_financial_statements,0,1,11
+702,2021_section_7_chunk_0,2021_section_7,main_section,주석,2021,,,notes_section,0,18,1193
+703,2021_section_7_chunk_1,2021_section_7,main_section,주석,2021,,,notes_section,1,18,1201
+704,2021_section_7_chunk_2,2021_section_7,main_section,주석,2021,,,notes_section,2,18,1332
+705,2021_section_7_chunk_3,2021_section_7,main_section,주석,2021,,,notes_section,3,18,1265
+706,2021_section_7_chunk_4,2021_section_7,main_section,주석,2021,,,notes_section,4,18,1352
+707,2021_section_7_chunk_5,2021_section_7,main_section,주석,2021,,,notes_section,5,18,1325
+708,2021_section_7_chunk_6,2021_section_7,main_section,주석,2021,,,notes_section,6,18,1299
+709,2021_section_7_chunk_7,2021_section_7,main_section,주석,2021,,,notes_section,7,18,1315
+710,2021_section_7_chunk_8,2021_section_7,main_section,주석,2021,,,notes_section,8,18,1227
+711,2021_section_7_chunk_9,2021_section_7,main_section,주석,2021,,,notes_section,9,18,1073
+712,2021_section_7_chunk_10,2021_section_7,main_section,주석,2021,,,notes_section,10,18,1219
+713,2021_section_7_chunk_11,2021_section_7,main_section,주석,2021,,,notes_section,11,18,1326
+714,2021_section_7_chunk_12,2021_section_7,main_section,주석,2021,,,notes_section,12,18,1349
+715,2021_section_7_chunk_13,2021_section_7,main_section,주석,2021,,,notes_section,13,18,1070
+716,2021_section_7_chunk_14,2021_section_7,main_section,주석,2021,,,notes_section,14,18,1289
+717,2021_section_7_chunk_15,2021_section_7,main_section,주석,2021,,,notes_section,15,18,1345
+718,2021_section_7_chunk_16,2021_section_7,main_section,주석,2021,,,notes_section,16,18,1347
+719,2021_section_7_chunk_17,2021_section_7,main_section,주석,2021,,,notes_section,17,18,1255
+720,2021_section_8_chunk_0,2021_section_8,main_section,(주석,2021,,,notes_section,0,13,1170
+721,2021_section_8_chunk_1,2021_section_8,main_section,(주석,2021,,,notes_section,1,13,1275
+722,2021_section_8_chunk_2,2021_section_8,main_section,(주석,2021,,,notes_section,2,13,1349
+723,2021_section_8_chunk_3,2021_section_8,main_section,(주석,2021,,,notes_section,3,13,1344
+724,2021_section_8_chunk_4,2021_section_8,main_section,(주석,2021,,,notes_section,4,13,1307
+725,2021_section_8_chunk_5,2021_section_8,main_section,(주석,2021,,,notes_section,5,13,1337
+726,2021_section_8_chunk_6,2021_section_8,main_section,(주석,2021,,,notes_section,6,13,1341
+727,2021_section_8_chunk_7,2021_section_8,main_section,(주석,2021,,,notes_section,7,13,1152
+728,2021_section_8_chunk_8,2021_section_8,main_section,(주석,2021,,,notes_section,8,13,1311
+729,2021_section_8_chunk_9,2021_section_8,main_section,(주석,2021,,,notes_section,9,13,1351
+730,2021_section_8_chunk_10,2021_section_8,main_section,(주석,2021,,,notes_section,10,13,1293
+731,2021_section_8_chunk_11,2021_section_8,main_section,(주석,2021,,,notes_section,11,13,1347
+732,2021_section_8_chunk_12,2021_section_8,main_section,(주석,2021,,,notes_section,12,13,212
+733,2021_note_1_0_chunk_0,2021_note_1_0,note_block,1. 일반적 사항 :,2021,,1,,0,1,442
+734,2021_note_2_1_chunk_0,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,0,15,1138
+735,2021_note_2_1_chunk_1,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,1,15,1242
+736,2021_note_2_1_chunk_2,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,2,15,1295
+737,2021_note_2_1_chunk_3,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,3,15,1121
+738,2021_note_2_1_chunk_4,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,4,15,1161
+739,2021_note_2_1_chunk_5,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,5,15,1256
+740,2021_note_2_1_chunk_6,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,6,15,1292
+741,2021_note_2_1_chunk_7,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,7,15,1308
+742,2021_note_2_1_chunk_8,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,8,15,1292
+743,2021_note_2_1_chunk_9,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,9,15,1286
+744,2021_note_2_1_chunk_10,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,10,15,1212
+745,2021_note_2_1_chunk_11,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,11,15,1295
+746,2021_note_2_1_chunk_12,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,12,15,1318
+747,2021_note_2_1_chunk_13,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,13,15,1299
+748,2021_note_2_1_chunk_14,2021_note_2_1,note_block,2. 중요한 회계처리방침:,2021,,2,,14,15,833
+749,2021_note_3_2_chunk_0,2021_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2021,,3,,0,3,1090
+750,2021_note_3_2_chunk_1,2021_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2021,,3,,1,3,1315
+751,2021_note_3_2_chunk_2,2021_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2021,,3,,2,3,724
+752,2021_note_5_3_chunk_0,2021_note_5_3,note_block,5. 금융자산의 양도:,2021,,5,,0,1,263
+753,2021_note_6_4_chunk_0,2021_note_6_4,note_block,6. 공정가치금융자산:,2021,,6,,0,1,267
+754,2021_note_7_5_chunk_0,2021_note_7_5,note_block,7. 매출채권 및 미수금:,2021,,7,,0,1,364
+755,2021_note_8_6_chunk_0,2021_note_8_6,note_block,8. 재고자산 :,2021,,8,,0,1,140
+756,2021_note_9_7_chunk_0,2021_note_9_7,note_block,"9. 종속기업, 관계기업 및 공동기업 투자:",2021,,9,,0,1,257
+757,2021_note_10_8_chunk_0,2021_note_10_8,note_block,10. 유형자산 :,2021,,10,,0,1,264
+758,2021_note_12_9_chunk_0,2021_note_12_9,note_block,12. 차입금:,2021,,12,,0,1,81
+759,2021_note_13_10_chunk_0,2021_note_13_10,note_block,13. 사채:,2021,,13,,0,1,558
+760,2021_note_16_11_chunk_0,2021_note_16_11,note_block,16. 우발부채와 약정사항:,2021,,16,,0,1,806
+761,2021_note_17_12_chunk_0,2021_note_17_12,note_block,17. 계약부채:,2021,,17,,0,1,91
+762,2021_note_18_13_chunk_0,2021_note_18_13,note_block,18. 자본금:,2021,,18,,0,1,298
+763,2021_note_19_14_chunk_0,2021_note_19_14,note_block,19. 이익잉여금:,2021,,19,,0,1,276
+764,2021_note_20_15_chunk_0,2021_note_20_15,note_block,20. 기타자본항목:,2021,,20,,0,1,44
+765,2021_note_21_16_chunk_0,2021_note_21_16,note_block,21. 비용의 성격별 분류:,2021,,21,,0,1,50
+766,2021_note_22_17_chunk_0,2021_note_22_17,note_block,22. 판매비와관리비:,2021,,22,,0,1,45
+767,2021_note_23_18_chunk_0,2021_note_23_18,note_block,23. 기타수익,2021,,23,,0,1,53
+768,2021_note_24_19_chunk_0,2021_note_24_19,note_block,24. 금융수익 및 금융비용:,2021,,24,,0,1,104
+769,2021_note_25_20_chunk_0,2021_note_25_20,note_block,25. 법인세비용:,2021,,25,,0,1,235
+770,2021_note_26_21_chunk_0,2021_note_26_21,note_block,26. 주당이익:,2021,,26,,0,1,142
+771,2021_note_27_22_chunk_0,2021_note_27_22,note_block,27. 현금흐름표:,2021,,27,,0,1,519
+772,2021_note_28_23_chunk_0,2021_note_28_23,note_block,28. 재무위험관리:,2021,,28,,0,5,1046
+773,2021_note_28_23_chunk_1,2021_note_28_23,note_block,28. 재무위험관리:,2021,,28,,1,5,1295
+774,2021_note_28_23_chunk_2,2021_note_28_23,note_block,28. 재무위험관리:,2021,,28,,2,5,1320
+775,2021_note_28_23_chunk_3,2021_note_28_23,note_block,28. 재무위험관리:,2021,,28,,3,5,1305
+776,2021_note_28_23_chunk_4,2021_note_28_23,note_block,28. 재무위험관리:,2021,,28,,4,5,438
+777,2021_note_29_24_chunk_0,2021_note_29_24,note_block,29. 부문별 보고:,2021,,29,,0,1,336
+778,2021_note_30_25_chunk_0,2021_note_30_25,note_block,30. 특수관계자와의 거래:,2021,,30,,0,1,801
+779,2021_balance_sheet_chunk_0,2021_balance_sheet,normalized_table,balance_sheet,2021,balance_sheet,,,0,2,1190
+780,2021_balance_sheet_chunk_1,2021_balance_sheet,normalized_table,balance_sheet,2021,balance_sheet,,,1,2,954
+781,2021_income_statement_chunk_0,2021_income_statement,normalized_table,income_statement,2021,income_statement,,,0,1,670
+782,2021_comprehensive_income_chunk_0,2021_comprehensive_income,normalized_table,comprehensive_income,2021,comprehensive_income,,,0,1,371
+783,2021_changes_in_equity_prior_period_0_chunk_0,2021_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2021,changes_in_equity,,,0,1,576
+784,2021_changes_in_equity_current_period_1_chunk_0,2021_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2021,changes_in_equity,,,0,1,581
+785,2021_cash_flow_chunk_0,2021_cash_flow,normalized_table,cash_flow,2021,cash_flow,,,0,2,1194
+786,2021_cash_flow_chunk_1,2021_cash_flow,normalized_table,cash_flow,2021,cash_flow,,,1,2,266
+787,2022_section_0_chunk_0,2022_section_0,main_section,독립된 감사인의 감사보고서,2022,,,auditor_report_title,0,1,14
+788,2022_section_1_chunk_0,2022_section_1,main_section,감사의견,2022,,,opinion,0,1,441
+789,2022_section_2_chunk_0,2022_section_2,main_section,감사의견근거,2022,,,basis_for_opinion,0,1,6
+790,2022_section_3_chunk_0,2022_section_3,main_section,"우리는 대한민국의 회계감사기준에 따라 감사를 수행하였습니다. 이 기준에 따른 우리의 책임은 이 감사보고서의 재무제표감사에 대한 감사인의 책임 단락에 기술되어 있습니다. 우리는 재무제표감사와 관련된 대한민국의 윤리적 요구사항에 따라 회사로부터 독립적이며, 그러한 요구사항에 따른 기타의 윤리적 책임을 이행하였습니다. 우리가 입수한 감사증거가 감사의견을 위한 근거로서 충분하고 적합하다고 우리는 믿습니다.",2022,,,auditor_responsibility,0,1,224
+791,2022_section_4_chunk_0,2022_section_4,main_section,핵심감사사항,2022,,,key_audit_matters,0,1,1173
+792,2022_section_5_chunk_0,2022_section_5,main_section,재무제표감사에 대한 감사인의 책임,2022,,,auditor_responsibility,0,2,1126
+793,2022_section_5_chunk_1,2022_section_5,main_section,재무제표감사에 대한 감사인의 책임,2022,,,auditor_responsibility,1,2,678
+794,2022_section_6_chunk_0,2022_section_6,main_section,(첨부)재 무 제 표,2022,,,attached_financial_statements,0,1,11
+795,2022_section_7_chunk_0,2022_section_7,main_section,주석,2022,,,notes_section,0,30,1024
+796,2022_section_7_chunk_1,2022_section_7,main_section,주석,2022,,,notes_section,1,30,1349
+797,2022_section_7_chunk_2,2022_section_7,main_section,주석,2022,,,notes_section,2,30,1346
+798,2022_section_7_chunk_3,2022_section_7,main_section,주석,2022,,,notes_section,3,30,1100
+799,2022_section_7_chunk_4,2022_section_7,main_section,주석,2022,,,notes_section,4,30,1161
+800,2022_section_7_chunk_5,2022_section_7,main_section,주석,2022,,,notes_section,5,30,1279
+801,2022_section_7_chunk_6,2022_section_7,main_section,주석,2022,,,notes_section,6,30,1214
+802,2022_section_7_chunk_7,2022_section_7,main_section,주석,2022,,,notes_section,7,30,1331
+803,2022_section_7_chunk_8,2022_section_7,main_section,주석,2022,,,notes_section,8,30,1259
+804,2022_section_7_chunk_9,2022_section_7,main_section,주석,2022,,,notes_section,9,30,1287
+805,2022_section_7_chunk_10,2022_section_7,main_section,주석,2022,,,notes_section,10,30,1242
+806,2022_section_7_chunk_11,2022_section_7,main_section,주석,2022,,,notes_section,11,30,1237
+807,2022_section_7_chunk_12,2022_section_7,main_section,주석,2022,,,notes_section,12,30,1244
+808,2022_section_7_chunk_13,2022_section_7,main_section,주석,2022,,,notes_section,13,30,1335
+809,2022_section_7_chunk_14,2022_section_7,main_section,주석,2022,,,notes_section,14,30,1081
+810,2022_section_7_chunk_15,2022_section_7,main_section,주석,2022,,,notes_section,15,30,1201
+811,2022_section_7_chunk_16,2022_section_7,main_section,주석,2022,,,notes_section,16,30,1336
+812,2022_section_7_chunk_17,2022_section_7,main_section,주석,2022,,,notes_section,17,30,1334
+813,2022_section_7_chunk_18,2022_section_7,main_section,주석,2022,,,notes_section,18,30,1314
+814,2022_section_7_chunk_19,2022_section_7,main_section,주석,2022,,,notes_section,19,30,1342
+815,2022_section_7_chunk_20,2022_section_7,main_section,주석,2022,,,notes_section,20,30,1343
+816,2022_section_7_chunk_21,2022_section_7,main_section,주석,2022,,,notes_section,21,30,1350
+817,2022_section_7_chunk_22,2022_section_7,main_section,주석,2022,,,notes_section,22,30,1281
+818,2022_section_7_chunk_23,2022_section_7,main_section,주석,2022,,,notes_section,23,30,1321
+819,2022_section_7_chunk_24,2022_section_7,main_section,주석,2022,,,notes_section,24,30,1324
+820,2022_section_7_chunk_25,2022_section_7,main_section,주석,2022,,,notes_section,25,30,1335
+821,2022_section_7_chunk_26,2022_section_7,main_section,주석,2022,,,notes_section,26,30,1183
+822,2022_section_7_chunk_27,2022_section_7,main_section,주석,2022,,,notes_section,27,30,1327
+823,2022_section_7_chunk_28,2022_section_7,main_section,주석,2022,,,notes_section,28,30,1328
+824,2022_section_7_chunk_29,2022_section_7,main_section,주석,2022,,,notes_section,29,30,492
+825,2022_note_1_0_chunk_0,2022_note_1_0,note_block,1. 일반적 사항:,2022,,1,,0,1,334
+826,2022_note_2_1_chunk_0,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,0,15,1140
+827,2022_note_2_1_chunk_1,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,1,15,1160
+828,2022_note_2_1_chunk_2,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,2,15,1239
+829,2022_note_2_1_chunk_3,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,3,15,1200
+830,2022_note_2_1_chunk_4,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,4,15,1307
+831,2022_note_2_1_chunk_5,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,5,15,1149
+832,2022_note_2_1_chunk_6,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,6,15,1071
+833,2022_note_2_1_chunk_7,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,7,15,1307
+834,2022_note_2_1_chunk_8,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,8,15,1297
+835,2022_note_2_1_chunk_9,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,9,15,1319
+836,2022_note_2_1_chunk_10,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,10,15,1308
+837,2022_note_2_1_chunk_11,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,11,15,1078
+838,2022_note_2_1_chunk_12,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,12,15,1218
+839,2022_note_2_1_chunk_13,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,13,15,1115
+840,2022_note_2_1_chunk_14,2022_note_2_1,note_block,2. 중요한 회계처리방침:,2022,,2,,14,15,804
+841,2022_note_3_2_chunk_0,2022_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2022,,3,,0,3,1068
+842,2022_note_3_2_chunk_1,2022_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2022,,3,,1,3,1306
+843,2022_note_3_2_chunk_2,2022_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2022,,3,,2,3,602
+844,2022_note_4_3_chunk_0,2022_note_4_3,note_block,4. 범주별 금융상품:,2022,,4,,0,1,98
+845,2022_note_5_4_chunk_0,2022_note_5_4,note_block,5. 금융자산의 양도:,2022,,5,,0,1,260
+846,2022_note_6_5_chunk_0,2022_note_6_5,note_block,6. 공정가치금융자산:,2022,,6,,0,1,265
+847,2022_note_7_6_chunk_0,2022_note_7_6,note_block,7. 매출채권 및 미수금:,2022,,7,,0,1,346
+848,2022_note_8_7_chunk_0,2022_note_8_7,note_block,8. 재고자산:,2022,,8,,0,1,137
+849,2022_note_9_8_chunk_0,2022_note_9_8,note_block,"9. 종속기업, 관계기업 및 공동기업 투자:",2022,,9,,0,1,257
+850,2022_note_10_9_chunk_0,2022_note_10_9,note_block,10. 유형자산:,2022,,10,,0,1,161
+851,2022_note_11_10_chunk_0,2022_note_11_10,note_block,11. 무형자산:,2022,,11,,0,1,100
+852,2022_note_12_11_chunk_0,2022_note_12_11,note_block,12. 차입금:,2022,,12,,0,1,81
+853,2022_note_13_12_chunk_0,2022_note_13_12,note_block,13. 사채:,2022,,13,,0,1,77
+854,2022_note_14_13_chunk_0,2022_note_14_13,note_block,14. 순확정급여부채(자산):,2022,,14,,0,1,482
+855,2022_note_15_14_chunk_0,2022_note_15_14,note_block,15. 충당부채:,2022,,15,,0,1,676
+856,2022_note_16_15_chunk_0,2022_note_16_15,note_block,16. 우발부채와 약정사항:,2022,,16,,0,1,777
+857,2022_note_17_16_chunk_0,2022_note_17_16,note_block,17. 계약부채:,2022,,17,,0,1,86
+858,2022_note_18_17_chunk_0,2022_note_18_17,note_block,18. 자본금:,2022,,18,,0,1,290
+859,2022_note_19_18_chunk_0,2022_note_19_18,note_block,19. 이익잉여금:,2022,,19,,0,1,267
+860,2022_note_20_19_chunk_0,2022_note_20_19,note_block,20. 기타자본항목:,2022,,20,,0,1,44
+861,2022_note_21_20_chunk_0,2022_note_21_20,note_block,21. 비용의 성격별 분류:,2022,,21,,0,1,50
+862,2022_note_22_21_chunk_0,2022_note_22_21,note_block,22. 판매비와관리비:,2022,,22,,0,1,45
+863,2022_note_23_22_chunk_0,2022_note_23_22,note_block,23. 기타수익 및 기타비용:,2022,,23,,0,1,53
+864,2022_note_24_23_chunk_0,2022_note_24_23,note_block,24. 금융수익 및 금융비용:,2022,,24,,0,1,104
+865,2022_note_25_24_chunk_0,2022_note_25_24,note_block,25. 법인세비용:,2022,,25,,0,1,245
+866,2022_note_26_25_chunk_0,2022_note_26_25,note_block,26. 주당이익:,2022,,26,,0,1,142
+867,2022_note_27_26_chunk_0,2022_note_27_26,note_block,27. 현금흐름표:,2022,,27,,0,1,509
+868,2022_note_28_27_chunk_0,2022_note_28_27,note_block,28. 재무위험관리:,2022,,28,,0,5,1194
+869,2022_note_28_27_chunk_1,2022_note_28_27,note_block,28. 재무위험관리:,2022,,28,,1,5,1080
+870,2022_note_28_27_chunk_2,2022_note_28_27,note_block,28. 재무위험관리:,2022,,28,,2,5,1277
+871,2022_note_28_27_chunk_3,2022_note_28_27,note_block,28. 재무위험관리:,2022,,28,,3,5,1276
+872,2022_note_28_27_chunk_4,2022_note_28_27,note_block,28. 재무위험관리:,2022,,28,,4,5,378
+873,2022_note_29_28_chunk_0,2022_note_29_28,note_block,29. 부문별 보고:,2022,,29,,0,1,328
+874,2022_note_30_29_chunk_0,2022_note_30_29,note_block,30. 특수관계자와의 거래:,2022,,30,,0,1,824
+875,2022_note_31_30_chunk_0,2022_note_31_30,note_block,31. 보고기간 후 사건,2022,,31,,0,1,116
+876,2022_balance_sheet_chunk_0,2022_balance_sheet,normalized_table,balance_sheet,2022,balance_sheet,,,0,2,1188
+877,2022_balance_sheet_chunk_1,2022_balance_sheet,normalized_table,balance_sheet,2022,balance_sheet,,,1,2,957
+878,2022_income_statement_chunk_0,2022_income_statement,normalized_table,income_statement,2022,income_statement,,,0,1,671
+879,2022_comprehensive_income_chunk_0,2022_comprehensive_income,normalized_table,comprehensive_income,2022,comprehensive_income,,,0,1,370
+880,2022_changes_in_equity_prior_period_0_chunk_0,2022_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2022,changes_in_equity,,,0,1,581
+881,2022_changes_in_equity_current_period_1_chunk_0,2022_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2022,changes_in_equity,,,0,1,586
+882,2022_cash_flow_chunk_0,2022_cash_flow,normalized_table,cash_flow,2022,cash_flow,,,0,2,1198
+883,2022_cash_flow_chunk_1,2022_cash_flow,normalized_table,cash_flow,2022,cash_flow,,,1,2,265
+884,2023_section_0_chunk_0,2023_section_0,main_section,독립된 감사인의 감사보고서,2023,,,auditor_report_title,0,1,14
+885,2023_section_1_chunk_0,2023_section_1,main_section,감사의견,2023,,,opinion,0,1,406
+886,2023_section_2_chunk_0,2023_section_2,main_section,감사의견근거,2023,,,basis_for_opinion,0,1,6
+887,2023_section_3_chunk_0,2023_section_3,main_section,"우리는 대한민국의 회계감사기준에 따라 감사를 수행하였습니다. 이 기준에 따른 우리의 책임은 이 감사보고서의 재무제표감사에 대한 감사인의 책임 단락에 기술되어 있습니다. 우리는 재무제표감사와 관련된 대한민국의 윤리적 요구사항에 따라 회사로부터 독립적이며, 그러한 요구사항에 따른 기타의 윤리적 책임을 이행하였습니다. 우리가 입수한 감사증거가 감사의견을 위한 근거로서 충분하고 적합하다고 우리는 믿습니다.",2023,,,auditor_responsibility,0,1,224
+888,2023_section_4_chunk_0,2023_section_4,main_section,핵심감사사항,2023,,,key_audit_matters,0,2,1175
+889,2023_section_4_chunk_1,2023_section_4,main_section,핵심감사사항,2023,,,key_audit_matters,1,2,617
+890,2023_section_5_chunk_0,2023_section_5,main_section,기타사항,2023,,,other_matters,0,1,420
+891,2023_section_6_chunk_0,2023_section_6,main_section,재무제표감사에 대한 감사인의 책임,2023,,,auditor_responsibility,0,2,1127
+892,2023_section_6_chunk_1,2023_section_6,main_section,재무제표감사에 대한 감사인의 책임,2023,,,auditor_responsibility,1,2,672
+893,2023_section_7_chunk_0,2023_section_7,main_section,(첨부)재 무 제 표,2023,,,attached_financial_statements,0,1,11
+894,2023_section_8_chunk_0,2023_section_8,main_section,주석,2023,,,notes_section,0,22,1136
+895,2023_section_8_chunk_1,2023_section_8,main_section,주석,2023,,,notes_section,1,22,1323
+896,2023_section_8_chunk_2,2023_section_8,main_section,주석,2023,,,notes_section,2,22,1332
+897,2023_section_8_chunk_3,2023_section_8,main_section,주석,2023,,,notes_section,3,22,1337
+898,2023_section_8_chunk_4,2023_section_8,main_section,주석,2023,,,notes_section,4,22,1279
+899,2023_section_8_chunk_5,2023_section_8,main_section,주석,2023,,,notes_section,5,22,1337
+900,2023_section_8_chunk_6,2023_section_8,main_section,주석,2023,,,notes_section,6,22,1331
+901,2023_section_8_chunk_7,2023_section_8,main_section,주석,2023,,,notes_section,7,22,1315
+902,2023_section_8_chunk_8,2023_section_8,main_section,주석,2023,,,notes_section,8,22,1339
+903,2023_section_8_chunk_9,2023_section_8,main_section,주석,2023,,,notes_section,9,22,1335
+904,2023_section_8_chunk_10,2023_section_8,main_section,주석,2023,,,notes_section,10,22,1327
+905,2023_section_8_chunk_11,2023_section_8,main_section,주석,2023,,,notes_section,11,22,1279
+906,2023_section_8_chunk_12,2023_section_8,main_section,주석,2023,,,notes_section,12,22,1318
+907,2023_section_8_chunk_13,2023_section_8,main_section,주석,2023,,,notes_section,13,22,1260
+908,2023_section_8_chunk_14,2023_section_8,main_section,주석,2023,,,notes_section,14,22,1299
+909,2023_section_8_chunk_15,2023_section_8,main_section,주석,2023,,,notes_section,15,22,1275
+910,2023_section_8_chunk_16,2023_section_8,main_section,주석,2023,,,notes_section,16,22,1320
+911,2023_section_8_chunk_17,2023_section_8,main_section,주석,2023,,,notes_section,17,22,1282
+912,2023_section_8_chunk_18,2023_section_8,main_section,주석,2023,,,notes_section,18,22,1282
+913,2023_section_8_chunk_19,2023_section_8,main_section,주석,2023,,,notes_section,19,22,1283
+914,2023_section_8_chunk_20,2023_section_8,main_section,주석,2023,,,notes_section,20,22,1256
+915,2023_section_8_chunk_21,2023_section_8,main_section,주석,2023,,,notes_section,21,22,853
+916,2023_note_1_0_chunk_0,2023_note_1_0,note_block,1. 일반적 사항:,2023,,1,,0,1,335
+917,2023_note_2_1_chunk_0,2023_note_2_1,note_block,2. 중요한 회계처리방침:,2023,,2,,0,7,1173
+918,2023_note_2_1_chunk_1,2023_note_2_1,note_block,2. 중요한 회계처리방침:,2023,,2,,1,7,1317
+919,2023_note_2_1_chunk_2,2023_note_2_1,note_block,2. 중요한 회계처리방침:,2023,,2,,2,7,1181
+920,2023_note_2_1_chunk_3,2023_note_2_1,note_block,2. 중요한 회계처리방침:,2023,,2,,3,7,1240
+921,2023_note_2_1_chunk_4,2023_note_2_1,note_block,2. 중요한 회계처리방침:,2023,,2,,4,7,1213
+922,2023_note_2_1_chunk_5,2023_note_2_1,note_block,2. 중요한 회계처리방침:,2023,,2,,5,7,1126
+923,2023_note_2_1_chunk_6,2023_note_2_1,note_block,2. 중요한 회계처리방침:,2023,,2,,6,7,582
+924,2023_note_3_2_chunk_0,2023_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2023,,3,,0,3,1153
+925,2023_note_3_2_chunk_1,2023_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2023,,3,,1,3,1128
+926,2023_note_3_2_chunk_2,2023_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2023,,3,,2,3,604
+927,2023_note_4_3_chunk_0,2023_note_4_3,note_block,4. 범주별 금융상품:,2023,,4,,0,1,98
+928,2023_note_5_4_chunk_0,2023_note_5_4,note_block,5. 금융자산의 양도:,2023,,5,,0,1,260
+929,2023_note_6_5_chunk_0,2023_note_6_5,note_block,6. 공정가치금융자산:,2023,,6,,0,1,265
+930,2023_note_7_6_chunk_0,2023_note_7_6,note_block,7. 매출채권 및 미수금:,2023,,7,,0,1,240
+931,2023_note_8_7_chunk_0,2023_note_8_7,note_block,8. 재고자산:,2023,,8,,0,1,133
+932,2023_note_9_8_chunk_0,2023_note_9_8,note_block,"9. 종속기업, 관계기업 및 공동기업 투자:",2023,,9,,0,1,254
+933,2023_note_10_9_chunk_0,2023_note_10_9,note_block,10. 유형자산:,2023,,10,,0,1,161
+934,2023_note_11_10_chunk_0,2023_note_11_10,note_block,11. 무형자산:,2023,,11,,0,1,100
+935,2023_note_12_11_chunk_0,2023_note_12_11,note_block,12. 차입금:,2023,,12,,0,1,122
+936,2023_note_13_12_chunk_0,2023_note_13_12,note_block,13. 사채:,2023,,13,,0,1,77
+937,2023_note_14_13_chunk_0,2023_note_14_13,note_block,14. 순확정급여부채(자산):,2023,,14,,0,1,548
+938,2023_note_15_14_chunk_0,2023_note_15_14,note_block,15. 충당부채:,2023,,15,,0,1,677
+939,2023_note_16_15_chunk_0,2023_note_16_15,note_block,16. 우발부채와 약정사항:,2023,,16,,0,1,781
+940,2023_note_17_16_chunk_0,2023_note_17_16,note_block,17. 계약부채:,2023,,17,,0,1,86
+941,2023_note_18_17_chunk_0,2023_note_18_17,note_block,18. 자본금:,2023,,18,,0,1,395
+942,2023_note_19_18_chunk_0,2023_note_19_18,note_block,19. 이익잉여금:,2023,,19,,0,1,281
+943,2023_note_20_19_chunk_0,2023_note_20_19,note_block,20. 기타자본항목:,2023,,20,,0,1,44
+944,2023_note_21_20_chunk_0,2023_note_21_20,note_block,21. 비용의 성격별 분류:,2023,,21,,0,1,50
+945,2023_note_22_21_chunk_0,2023_note_22_21,note_block,22. 판매비와관리비:,2023,,22,,0,1,45
+946,2023_note_23_22_chunk_0,2023_note_23_22,note_block,23. 기타수익 및 기타비용:,2023,,23,,0,1,53
+947,2023_note_24_23_chunk_0,2023_note_24_23,note_block,24. 금융수익 및 금융비용:,2023,,24,,0,1,104
+948,2023_note_25_24_chunk_0,2023_note_25_24,note_block,25. 법인세비용:,2023,,25,,0,1,868
+949,2023_note_26_25_chunk_0,2023_note_26_25,note_block,26. 주당이익:,2023,,26,,0,1,142
+950,2023_note_27_26_chunk_0,2023_note_27_26,note_block,27. 현금흐름표:,2023,,27,,0,1,510
+951,2023_note_28_27_chunk_0,2023_note_28_27,note_block,28. 재무위험관리:,2023,,28,,0,5,1171
+952,2023_note_28_27_chunk_1,2023_note_28_27,note_block,28. 재무위험관리:,2023,,28,,1,5,1234
+953,2023_note_28_27_chunk_2,2023_note_28_27,note_block,28. 재무위험관리:,2023,,28,,2,5,1304
+954,2023_note_28_27_chunk_3,2023_note_28_27,note_block,28. 재무위험관리:,2023,,28,,3,5,1284
+955,2023_note_28_27_chunk_4,2023_note_28_27,note_block,28. 재무위험관리:,2023,,28,,4,5,416
+956,2023_note_29_28_chunk_0,2023_note_29_28,note_block,29. 부문별 보고:,2023,,29,,0,1,328
+957,2023_note_30_29_chunk_0,2023_note_30_29,note_block,30. 특수관계자와의 거래:,2023,,30,,0,1,995
+958,2023_balance_sheet_chunk_0,2023_balance_sheet,normalized_table,balance_sheet,2023,balance_sheet,,,0,2,1183
+959,2023_balance_sheet_chunk_1,2023_balance_sheet,normalized_table,balance_sheet,2023,balance_sheet,,,1,2,952
+960,2023_income_statement_chunk_0,2023_income_statement,normalized_table,income_statement,2023,income_statement,,,0,1,685
+961,2023_comprehensive_income_chunk_0,2023_comprehensive_income,normalized_table,comprehensive_income,2023,comprehensive_income,,,0,1,370
+962,2023_changes_in_equity_prior_period_0_chunk_0,2023_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2023,changes_in_equity,,,0,1,586
+963,2023_changes_in_equity_current_period_1_chunk_0,2023_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2023,changes_in_equity,,,0,1,588
+964,2023_cash_flow_chunk_0,2023_cash_flow,normalized_table,cash_flow,2023,cash_flow,,,0,2,1196
+965,2023_cash_flow_chunk_1,2023_cash_flow,normalized_table,cash_flow,2023,cash_flow,,,1,2,320
+966,2024_section_0_chunk_0,2024_section_0,main_section,독립된 감사인의 감사보고서,2024,,,auditor_report_title,0,1,14
+967,2024_section_1_chunk_0,2024_section_1,main_section,감사의견,2024,,,opinion,0,1,448
+968,2024_section_2_chunk_0,2024_section_2,main_section,감사의견근거,2024,,,basis_for_opinion,0,1,6
+969,2024_section_3_chunk_0,2024_section_3,main_section,"우리는 대한민국의 회계감사기준에 따라 감사를 수행하였습니다. 이 기준에 따른 우리의 책임은 이 감사보고서의 재무제표감사에 대한 감사인의 책임 단락에 기술되어 있습니다. 우리는 재무제표감사와 관련된 대한민국의 윤리적 요구사항에 따라 회사로부터 독립적이며, 그러한 요구사항에 따른 기타의 윤리적 책임을 이행하였습니다. 우리가 입수한 감사증거가 감사의견을 위한 근거로서 충분하고 적합하다고 우리는 믿습니다.",2024,,,auditor_responsibility,0,1,224
+970,2024_section_4_chunk_0,2024_section_4,main_section,핵심감사사항,2024,,,key_audit_matters,0,2,961
+971,2024_section_4_chunk_1,2024_section_4,main_section,핵심감사사항,2024,,,key_audit_matters,1,2,1201
+972,2024_section_5_chunk_0,2024_section_5,main_section,재무제표감사에 대한 감사인의 책임,2024,,,auditor_responsibility,0,2,1127
+973,2024_section_5_chunk_1,2024_section_5,main_section,재무제표감사에 대한 감사인의 책임,2024,,,auditor_responsibility,1,2,672
+974,2024_section_6_chunk_0,2024_section_6,main_section,(첨부)재 무 제 표,2024,,,attached_financial_statements,0,1,11
+975,2024_section_7_chunk_0,2024_section_7,main_section,주석,2024,,,notes_section,0,22,1134
+976,2024_section_7_chunk_1,2024_section_7,main_section,주석,2024,,,notes_section,1,22,1140
+977,2024_section_7_chunk_2,2024_section_7,main_section,주석,2024,,,notes_section,2,22,1219
+978,2024_section_7_chunk_3,2024_section_7,main_section,주석,2024,,,notes_section,3,22,1265
+979,2024_section_7_chunk_4,2024_section_7,main_section,주석,2024,,,notes_section,4,22,1273
+980,2024_section_7_chunk_5,2024_section_7,main_section,주석,2024,,,notes_section,5,22,1170
+981,2024_section_7_chunk_6,2024_section_7,main_section,주석,2024,,,notes_section,6,22,1334
+982,2024_section_7_chunk_7,2024_section_7,main_section,주석,2024,,,notes_section,7,22,1304
+983,2024_section_7_chunk_8,2024_section_7,main_section,주석,2024,,,notes_section,8,22,1340
+984,2024_section_7_chunk_9,2024_section_7,main_section,주석,2024,,,notes_section,9,22,1320
+985,2024_section_7_chunk_10,2024_section_7,main_section,주석,2024,,,notes_section,10,22,1342
+986,2024_section_7_chunk_11,2024_section_7,main_section,주석,2024,,,notes_section,11,22,1344
+987,2024_section_7_chunk_12,2024_section_7,main_section,주석,2024,,,notes_section,12,22,1339
+988,2024_section_7_chunk_13,2024_section_7,main_section,주석,2024,,,notes_section,13,22,1332
+989,2024_section_7_chunk_14,2024_section_7,main_section,주석,2024,,,notes_section,14,22,1188
+990,2024_section_7_chunk_15,2024_section_7,main_section,주석,2024,,,notes_section,15,22,1243
+991,2024_section_7_chunk_16,2024_section_7,main_section,주석,2024,,,notes_section,16,22,1329
+992,2024_section_7_chunk_17,2024_section_7,main_section,주석,2024,,,notes_section,17,22,1314
+993,2024_section_7_chunk_18,2024_section_7,main_section,주석,2024,,,notes_section,18,22,1339
+994,2024_section_7_chunk_19,2024_section_7,main_section,주석,2024,,,notes_section,19,22,1349
+995,2024_section_7_chunk_20,2024_section_7,main_section,주석,2024,,,notes_section,20,22,1329
+996,2024_section_7_chunk_21,2024_section_7,main_section,주석,2024,,,notes_section,21,22,485
+997,2024_note_1_0_chunk_0,2024_note_1_0,note_block,1. 일반적 사항:,2024,,1,,0,1,337
+998,2024_note_2_1_chunk_0,2024_note_2_1,note_block,2. 중요한 회계처리방침:,2024,,2,,0,6,1068
+999,2024_note_2_1_chunk_1,2024_note_2_1,note_block,2. 중요한 회계처리방침:,2024,,2,,1,6,1321
+1000,2024_note_2_1_chunk_2,2024_note_2_1,note_block,2. 중요한 회계처리방침:,2024,,2,,2,6,1270
+1001,2024_note_2_1_chunk_3,2024_note_2_1,note_block,2. 중요한 회계처리방침:,2024,,2,,3,6,1319
+1002,2024_note_2_1_chunk_4,2024_note_2_1,note_block,2. 중요한 회계처리방침:,2024,,2,,4,6,1220
+1003,2024_note_2_1_chunk_5,2024_note_2_1,note_block,2. 중요한 회계처리방침:,2024,,2,,5,6,976
+1004,2024_note_3_2_chunk_0,2024_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2024,,3,,0,3,1153
+1005,2024_note_3_2_chunk_1,2024_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2024,,3,,1,3,1117
+1006,2024_note_3_2_chunk_2,2024_note_3_2,note_block,3. 중요한 회계추정 및 가정:,2024,,3,,2,3,605
+1007,2024_note_4_3_chunk_0,2024_note_4_3,note_block,4. 범주별 금융상품:,2024,,4,,0,1,98
+1008,2024_note_5_4_chunk_0,2024_note_5_4,note_block,5. 금융자산의 양도:,2024,,5,,0,1,260
+1009,2024_note_6_5_chunk_0,2024_note_6_5,note_block,6. 공정가치금융자산:,2024,,6,,0,1,265
+1010,2024_note_7_6_chunk_0,2024_note_7_6,note_block,7. 매출채권 및 미수금:,2024,,7,,0,1,240
+1011,2024_note_8_7_chunk_0,2024_note_8_7,note_block,8. 재고자산:,2024,,8,,0,1,135
+1012,2024_note_9_8_chunk_0,2024_note_9_8,note_block,"9. 종속기업, 관계기업 및 공동기업 투자:",2024,,9,,0,1,423
+1013,2024_note_10_9_chunk_0,2024_note_10_9,note_block,10. 유형자산:,2024,,10,,0,1,161
+1014,2024_note_11_10_chunk_0,2024_note_11_10,note_block,11. 무형자산:,2024,,11,,0,1,100
+1015,2024_note_12_11_chunk_0,2024_note_12_11,note_block,12. 차입금:,2024,,12,,0,1,122
+1016,2024_note_13_12_chunk_0,2024_note_13_12,note_block,13. 사채:,2024,,13,,0,1,77
+1017,2024_note_14_13_chunk_0,2024_note_14_13,note_block,14. 순확정급여부채(자산):,2024,,14,,0,1,541
+1018,2024_note_15_14_chunk_0,2024_note_15_14,note_block,15. 충당부채:,2024,,15,,0,1,677
+1019,2024_note_16_15_chunk_0,2024_note_16_15,note_block,16. 우발부채와 약정사항:,2024,,16,,0,1,766
+1020,2024_note_17_16_chunk_0,2024_note_17_16,note_block,17. 계약부채:,2024,,17,,0,1,87
+1021,2024_note_18_17_chunk_0,2024_note_18_17,note_block,18. 자본금:,2024,,18,,0,1,375
+1022,2024_note_19_18_chunk_0,2024_note_19_18,note_block,19. 이익잉여금:,2024,,19,,0,1,281
+1023,2024_note_20_19_chunk_0,2024_note_20_19,note_block,20. 기타자본항목:,2024,,20,,0,1,81
+1024,2024_note_21_20_chunk_0,2024_note_21_20,note_block,21. 비용의 성격별 분류:,2024,,21,,0,1,50
+1025,2024_note_22_21_chunk_0,2024_note_22_21,note_block,22. 판매비와관리비:,2024,,22,,0,1,45
+1026,2024_note_23_22_chunk_0,2024_note_23_22,note_block,23. 기타수익 및 기타비용:,2024,,23,,0,1,53
+1027,2024_note_24_23_chunk_0,2024_note_24_23,note_block,24. 금융수익 및 금융비용:,2024,,24,,0,1,104
+1028,2024_note_25_24_chunk_0,2024_note_25_24,note_block,25. 법인세비용:,2024,,25,,0,1,221
+1029,2024_note_26_25_chunk_0,2024_note_26_25,note_block,26. 주당이익:,2024,,26,,0,1,142
+1030,2024_note_27_26_chunk_0,2024_note_27_26,note_block,27. 현금흐름표:,2024,,27,,0,1,512
+1031,2024_note_28_27_chunk_0,2024_note_28_27,note_block,28. 재무위험관리:,2024,,28,,0,5,1171
+1032,2024_note_28_27_chunk_1,2024_note_28_27,note_block,28. 재무위험관리:,2024,,28,,1,5,1222
+1033,2024_note_28_27_chunk_2,2024_note_28_27,note_block,28. 재무위험관리:,2024,,28,,2,5,1312
+1034,2024_note_28_27_chunk_3,2024_note_28_27,note_block,28. 재무위험관리:,2024,,28,,3,5,1274
+1035,2024_note_28_27_chunk_4,2024_note_28_27,note_block,28. 재무위험관리:,2024,,28,,4,5,600
+1036,2024_note_29_28_chunk_0,2024_note_29_28,note_block,29. 부문별 보고:,2024,,29,,0,1,328
+1037,2024_note_30_29_chunk_0,2024_note_30_29,note_block,30. 특수관계자와의 거래:,2024,,30,,0,1,1023
+1038,2024_note_31_30_chunk_0,2024_note_31_30,note_block,31. 보고기간 후 사건,2024,,31,,0,1,111
+1039,2024_balance_sheet_chunk_0,2024_balance_sheet,normalized_table,balance_sheet,2024,balance_sheet,,,0,2,1188
+1040,2024_balance_sheet_chunk_1,2024_balance_sheet,normalized_table,balance_sheet,2024,balance_sheet,,,1,2,955
+1041,2024_income_statement_chunk_0,2024_income_statement,normalized_table,income_statement,2024,income_statement,,,0,1,687
+1042,2024_comprehensive_income_chunk_0,2024_comprehensive_income,normalized_table,comprehensive_income,2024,comprehensive_income,,,0,1,372
+1043,2024_changes_in_equity_prior_period_0_chunk_0,2024_changes_in_equity_prior_period_0,normalized_table,changes_in_equity - prior_period,2024,changes_in_equity,,,0,1,588
+1044,2024_changes_in_equity_current_period_1_chunk_0,2024_changes_in_equity_current_period_1,normalized_table,changes_in_equity - current_period,2024,changes_in_equity,,,0,1,649
+1045,2024_cash_flow_chunk_0,2024_cash_flow,normalized_table,cash_flow,2024,cash_flow,,,0,2,1189
+1046,2024_cash_flow_chunk_1,2024_cash_flow,normalized_table,cash_flow,2024,cash_flow,,,1,2,359

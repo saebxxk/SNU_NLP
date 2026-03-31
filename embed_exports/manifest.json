@@ -1,0 +1,13 @@
+{
+  "input_path": "chunk_exports/dense_chunk_corpus.jsonl",
+  "record_count": 1047,
+  "embedding_count": 1047,
+  "embedding_dim": 768,
+  "model_name": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "batch_size": 32,
+  "normalize_embeddings": true,
+  "device": "mps:0",
+  "faiss_available": true,
+  "faiss_index_written": true,
+  "elapsed_seconds": 22.9715
+}
