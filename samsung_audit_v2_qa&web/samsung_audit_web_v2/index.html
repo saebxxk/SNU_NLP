@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>삼성전자 감사보고서 AI분석기 | Smart Audit Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Sidebar (데스크탑 용) -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <img src="chatbot_logo.png" alt="AuditWise AI" class="site-logo">
+                <span class="site-name">AuditWise AI</span>
+            </div>
+            <div class="sidebar-content">
+                <div class="nav-item active">
+                    <i class="fas fa-comment-alt"></i>
+                    <span>분석 채팅</span>
+                </div>
+                <div class="nav-group">
+                    <h3>보유 데이터</h3>
+                    <div class="data-badge"><i class="fas fa-calendar-alt"></i> 2014 ~ 2024년</div>
+                    <div class="data-badge"><i class="fas fa-database"></i> 삼성전자 별도 재무제표</div>
+                </div>
+            </div>
+            <div class="sidebar-footer">
+                <button id="clear-btn"><i class="fas fa-trash-alt"></i> 기록 삭제</button>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-wrapper">
+            <header class="chat-header">
+                <div class="header-info">
+                    <h2>삼성전자 감사보고서 분석 챗봇</h2>
+                    <p>재무상태표, 손익계산서, 현금흐름표 등 11개년 데이터 기반 답변</p>
+                </div>
+                <div class="header-actions">
+                    <span class="status-indicator">Online</span>
+                </div>
+            </header>
+
+            <div id="chat-container">
+                <!-- Welcome Message -->
+                <div class="message bot welcome">
+                    <div class="avatar">
+                        <img src="chatbot_logo.png" alt="Bot Logo">
+                    </div>
+                    <div class="bubble">
+                        안녕하세요! 삼성전자 감사보고서 전문 분석 AI입니다. 👋<br><br>
+                        2014년부터 2024년까지의 재무 데이터를 바탕으로 분석을 도와드립니다. 📊<br><br>
+                        <strong>추천 질문:</strong>
+                        <ul class="suggestions">
+                            <li onclick="useSuggestion('2023년 매출액은?')">2023년 매출액은?</li>
+                            <li onclick="useSuggestion('2015년 부채비율 계산해줘')">2015년 부채비율은?</li>
+                            <li onclick="useSuggestion('최근 10년 영업이익 추이 보여줘')">최근 10년 간 영업이익 추이는?</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Thinking Indicator -->
+            <div id="typing-box" style="display: none;">
+                <div class="avatar">
+                    <img src="chatbot_logo.png" alt="Bot Logo">
+                </div>
+                <div class="typing-indicator-container">
+                    <span class="thinking-text">분석 및 답변 생성 중</span>
+                    <div class="dots">
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <footer class="chat-footer">
+                <div class="input-container">
+                    <textarea id="user-input" placeholder="분석할 내용을 입력하세요..." rows="1"></textarea>
+                    <button id="send-btn">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <p class="disclaimer">AuditWise AI는 정확한 재무 보고서 데이터를 기반으로 답변하지만, 투자 결정 전 반드시 전문가와 상의하십시오.</p>
+            </footer>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

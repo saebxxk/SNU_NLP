@@ -1,0 +1,20 @@
+# 삼성전자 감사보고서 NLP 시스템 의존성
+# Python >= 3.9 권장
+
+# HTML 파싱
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# HTTP (Ollama API 호출)
+requests>=2.31.0
+
+# 데이터 처리 (선택)
+pandas>=2.0.0
+
+# 테스트
+pytest>=7.4.0
+
+# (선택) sentence-transformers 기반 임베딩 고도화
+# sentence-transformers>=2.7.0
+# torch>=2.1.0
+# faiss-cpu>=1.7.4
